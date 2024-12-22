@@ -34,7 +34,7 @@ Promise.all([d3.csv("關鍵字.csv")]).then(([data1]) => {
   const Size = d3
     .scaleLinear()
     .domain(freq_extent) // The extent of your data
-    .range([10, 50]); // The desired range of output
+    .range([15, 70]); // The desired range of output
   words = words.map(([text, freq]) => ({
     text,
     size: Size(freq.sum),
@@ -59,7 +59,7 @@ Promise.all([d3.csv("關鍵字.csv")]).then(([data1]) => {
     .cloud()
     .size([width, height])
     .words(words)
-    .padding(6)
+    .padding(5)
     .rotate(() => ~~(Math.random() * 2) * 90)
     .fontSize((d) => d.size)
     .on("end", draw);
