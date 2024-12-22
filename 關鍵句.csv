@@ -1,184 +1,169 @@
-﻿主題,類別,標題,關鍵句,情緒分數,分類結果,URL,來源,日期
-0,財經,聊外貌或政治甚至性都可以，調查：朋友之間最不喜歡聊的是錢,"相較之下，
-表示很難談論政治，
-表示談論宗教，
-表示談論個人健康",1,正面,https://finance.technews.tw/2024/10/07/money-is-the-last-topic-people-wants-to-talk-about/,TECHNEWS,2024-10-07
-0,財經,加州禁私立大學傳承入學，衝擊史丹佛與南加大,加州州長紐松 9 月 30 日簽署法案禁止受補助的私立大學採用「傳承入學」，成為繼馬里蘭州後，美國第二個禁止私立大學在招生時優待校友或捐款者子女的州，史丹佛大學及南加大等名校皆受衝擊,-2,負面,https://finance.technews.tw/2024/10/01/california-bans-legacy-admissions-to-private-universities/,TECHNEWS,2024-10-01
-0,財經,少子化國安危機，劉鏡清：最佳化方案需千億但缺乏財源,國發會 10 月中旬公布最新人口推估，少子化、高齡化問題比預期更嚴峻，國發會主委劉鏡清今天表示，政府集結跨部會力量研擬優化方案，估計所需經費達新台幣千億元，但沒辦法找到財源，期盼未來能有特別預算解決問題,0,中性,https://finance.technews.tw/2024/10/24/taiwan-population-sub-replacement-fertility/,TECHNEWS,2024-10-24
-0,財經,實支實付新制上路，金管會釋疑理賠流程注意兩種證明,實支實付醫療險今年 7 月起回歸損害填補原則，金管會 1 日表示，保戶同時投保不同性質實支實付險或同時投保不僅一張同性質實支實付險，首家受理理賠的保險公司會分別開立醫療費用收據正本留存證明或理賠差額證明，供保戶向其餘保險公司申請理賠,-1,負面,https://finance.technews.tw/2024/10/02/newly-made-actual-payment/,TECHNEWS,2024-10-02
-0,財經,金錢與幸福感的真相，研究：有錢人要更多錢才能買到相同幸福感,"先前研究認為，金錢與幸福感的關係有上限，
-年心理學家
-和經濟學家
-領導的著名研究結論，幸福感隨收入增加而增加，直到每年
-美元（約台幣 241 萬元）為止，之後更多錢就不等於更幸福",4,正面,https://finance.technews.tw/2024/10/16/the-truth-of-money-and-happiness/,TECHNEWS,2024-10-16
-1,財經,"碳費開徵動起來！臻鼎採用東元「減碳包」再拚年減 5,000 噸","東元董事長利明献表示，東元的節能改造方案和完善的維保服務體系，將為戰略合作夥伴臻鼎科技的全球廠區，實現綠色轉型，推動智慧能源管理進程，並符合東元三年發展策略中的節能減碳項目，雙方將以每年減碳 5,000 噸以上為目標，持續優化升級",6,正面,https://finance.technews.tw/2024/10/24/carbon-reduction-package/,TECHNEWS,2024-10-24
-1,財經,英特爾擴建中國成都封裝測試基地，強化伺服器晶片客服,英特爾宣布擴建中國成都封裝測試基地，在現有用戶端產品封裝測試的基礎上，增加伺服器晶片封裝測試服務，設立客戶解決方案中心，以提高本土供應鏈效率，加強支援中國客戶，提升回應速度，規劃和建設已啟動,8,正面,https://finance.technews.tw/2024/10/28/intel-expands-packaging-and-testing-base-in-chengdu-china/,TECHNEWS,2024-10-28
-1,財經,鴻海科技日新級距電動車亮相，MODEL D、MODEL U 登場,而在今日的科技日活動中，鴻海則是推出了專為狹窄城市巷道及偏遠地區而設計的中型電動巴士 MODEL U，其是專為狹窄城市巷道及偏遠地區而設計的「中型電動巴士」，設計概念強調靈活性和多功能性，車身尺寸適中，內部空間可以根據需求進行配置,-1,負面,https://finance.technews.tw/2024/10/08/hhtd24-model-d-model-u/,TECHNEWS,2024-10-08
-1,財經,鴻海再添二座世界級燈塔工廠,"世界經濟論壇（World Economic Forum，WEF）日前公布最新一批燈塔工廠名單，
-旗下工業富聯再添 2 座世界級燈塔工廠，其中位於越南北江省的廠區以大量運用 AI 技術，提高生產效率，獲選成為越南國家首座燈塔工廠；而深圳觀瀾廠則以永續發展表現，拿下鴻海旗下第一座可持續燈塔工廠的稱號，鴻海科技集團燈塔工廠累計總數達到 8 座",4,正面,https://finance.technews.tw/2024/10/13/foxconn-wef/,TECHNEWS,2024-10-13
-1,財經,台積電攜手 EDA 大廠 Ansys，支援 A16 先進製程發展,為了滿足這種需求，台積電正在擴大與 3D-IC 的 Ansys Redhawk-SC Electrothermal 熱和多重物理簽核平台的合作，整合結構應力分析解決方案，以更好地支援共同客戶的需求,4,正面,https://finance.technews.tw/2024/10/15/tsmc-cooperates-with-eda-manufacturer-ansys/,TECHNEWS,2024-10-15
-2,財經,罷工超過一個月，波音同意加薪 35% 可望化解危機,所幸在美國政府介入協調下，情勢出現轉機，工會與波音達成初步協議，資方同意加薪 35%，一旦工會表決通過，罷工便能宣告落幕,4,正面,https://finance.technews.tw/2024/10/21/after-more-than-a-month-of-strike-boeing-agrees-to-raise-wages-by-35/,TECHNEWS,2024-10-21
-2,財經,特斯拉自駕車細節不明讓人失望，Uber、Lyft 逆勢飆,"特斯拉
-備受矚目的自駕計程車（Robotaxi），但進入市場的規劃不明，也缺乏安全數據，讓市場失望；Uber、Lyft 等共享汽車平台逆勢飆漲",-2,負面,https://finance.technews.tw/2024/10/14/uber-lyft-jump-after-teslas-toothless-taxi-fails-to-excite-investors/,TECHNEWS,2024-10-14
-2,財經,禮來減肥神藥不缺了？仿藥業者 Hims & Hers 暴跌,Hims & Hers等仿藥業者今年來也趁減肥藥需求火熱、供應短缺而推出「山寨版減肥藥」，從中受惠,0,中性,https://finance.technews.tw/2024/10/04/no-more-shortages-for-zepbound-and-mounjaro-hims-and-hers-plummets/,TECHNEWS,2024-10-04
-2,財經,罷工波音淌血……裁員 1.7 萬人，估 Q3 巨虧 50 億美元,"更糟糕的是，波音還受到大規模罷工干擾，導致經營雪上加霜，近日宣布下重手裁員 17,000 人，最新機型 777X 也一併延後問世，今年來股價重摔四成以上",-2,負面,https://finance.technews.tw/2024/10/14/boeing-to-cut-17000-jobs-as-losses-deepen-during-factory-strike/,TECHNEWS,2024-10-14
-2,財經,電動車買氣降，LG 新能源 Q3 獲利縮水近四成,韓國電池大廠 LG 新能源（LG Energy Solution）於 10 月 8 日揭曉最新財報，受全球電動車買氣趨緩影響，第三季獲利大幅縮水近四成,1,正面,https://finance.technews.tw/2024/10/08/lg-new-energy-q3-profit-shrank-by-nearly-40/,TECHNEWS,2024-10-08
-3,財經,碧桂園森林城市：中國房市崩盤與一座馬來西亞空城,"Amrita Chandradas for The New York Times
-森林城市一座公寓樓前掛鎖的店面",0,中性,https://cn.nytimes.com/business/20241023/forest-city-country-garden/zh-hant/,NYT,2024-10-23
-3,財經,中國進一步收緊對稀土開採、冶煉和出口限制,專門從事稀土業務的加拿大公司尼奧性能材料最近在淄博建了一家生產催化轉化器化學品的工廠,2,正面,https://cn.nytimes.com/china/20241028/china-critical-minerals-semiconductors/zh-hant/,NYT,2024-10-28
-3,財經,報復電動車關稅？中國盯上歐盟白蘭地徵重稅,人頭馬君度和保樂力加在中國的銷售額可能分別下滑6%、1.6%,0,中性,https://finance.technews.tw/2024/10/09/china-slaps-provisional-tariffs-on-eu-brandy-imports/,TECHNEWS,2024-10-09
-3,財經,中國宣布對歐洲白蘭地實施臨時反傾銷措施,"在歐盟成員國上週五投票決定繼續
+主題,類別,標題,關鍵句,情緒分數,分類結果,URL,來源,日期
+0,財經,黃金送分題！施羅德：此時此刻別錯過有生之年「金」不敗,"林良軍表示，地緣政治衝突升高和市場不確定性推升，金礦股具有避險效益，全球主要機構上調金價至 2,800~3,000 美元，隨著歐美和中國的短期利率將持續下降，黃金市場尚未完全反映以實物黃金為支撐的黃金現貨價",-4,負面,https://finance.technews.tw/2024/10/26/gold-etf/,TECHNEWS,2024/10/26
+0,財經,美國經濟繁榮循環到，瑞銀：愈來愈像咆哮的 20 年代,"年代有強勁經濟週期的特徵，故瑞銀宣布
+年代為「咆哮的 
+年代」，有幾項標準，包括
+持續成長
+或更高，通膨率
+，聯邦基金利率
+左右，十年期國債收益率在",0,中性,https://finance.technews.tw/2024/10/03/us-economy-will-into-roaring-20s/,TECHNEWS,2024/10/3
+0,財經,投資人太樂觀，美銀：牛熊指標觸全球股市「賣訊」,"路透社、Investing.com等外電報導，美銀由Michael Hartnett帶領的策略師團隊15日發表報告指出，10月4~10日調查195名基金經理人（管理總資產5,030億美元）後發現，受訪者的現金配置比例已從9月的4.2%降至3.9%，觸發全球股市「賣訊」",1,正面,https://finance.technews.tw/2024/10/16/global-stock-optimism-flashes-sell-signal/,TECHNEWS,2024/10/16
+0,財經,憂 Fed 降息幅度縮小？美房貸利率再度升至逼近 7%,各項數據顯示美國經濟成長強勁，市場對聯準會（Fed）降息的看法轉趨保守，美債殖利率近來走揚，美國 30 年期房貸利率也回升至逼近 7% 大關,-1,負面,https://finance.technews.tw/2024/10/25/us-house-rates-rise-again-to-nearly-7percent/,TECHNEWS,2024/10/25
+0,財經,美大選剩不到 30 個交易日，Cboe：VIX 買權需求夯,英國金融時報10月1日報導，瑞銀（UBS）分析顯示，選擇權市場目前預測，標準普爾500指數在大選隔天（11月6日）的振幅將達2.8%左右,0,中性,https://finance.technews.tw/2024/10/01/demand-for-vix-call-options-surges/,TECHNEWS,2024/10/1
+1,財經,Pro 機款仍是出貨主力，郭明錤：標準版 iPhone 16 需求仍低迷,iPhone 16 Pro 的出貨量與去年的 iPhone 15 Pro 類似，不過 iPhone 16 Pro 的出貨時間比 iPhone 15 Pro 更短,0,中性,https://finance.technews.tw/2024/10/10/iphone-16-series-shipment-2/,TECHNEWS,2024/10/10
+1,財經,彭博：蘋果認為 AI 開發至少落後兩年,即便蘋果 AI 策略一環是與 OpenAI 合作，讓 Siri 可與 ChatGPT 串連使用，但實際上 Apple Intelligence 主要還是依賴裝置端運行的模型，但這也意味著 Apple Intelligence 對於裝置規格要求相當高，用戶需要使用至少 A17 或 M1 晶片組的裝置才能獲得 Apple Intelligence 功能，且裝置必須至少有 8GB RAM,2,正面,https://finance.technews.tw/2024/10/21/apple-intelligence-development-progress/,TECHNEWS,2024/10/21
+1,財經,蘋果未全解鎖 Apple Intelligence，摩根大通：iPhone 16 未引爆商機,外資摩根大通（JP Morgan）在最新研究報告中，在蘋果人工智慧應用 Apple Intelligence 尚未解鎖完整功能的情況下，9 月初最新發表的 iPhone 16 系列智慧型手機並未引爆採購商機,0,中性,https://finance.technews.tw/2024/10/03/jpmorgan-chase-iphone-16-has-not-ignited-business-opportunities/,TECHNEWS,2024/10/3
+1,財經,iPhone 16 減單 300 萬？巴克萊：蘋果砍台半導體夥伴訂單,以 Apple Intelligence 為最大賣點的 iPhone 16 系列需求似乎不如預期，據巴克萊分析師最新的報告顯示，蘋果可能減產 300 萬支 iPhone 16,-1,負面,https://finance.technews.tw/2024/10/02/iphone-16-cuts/,TECHNEWS,2024/10/2
+1,財經,宏達電 9 月營收月增逾 65%，創今年單月次高紀錄,另外、宏達電旗下致力於為觀眾帶來非凡的娛樂體驗的 VIVE ORIGINALS 娛樂平台 BEATDAY，宣布推出全球首創六自由度 6DoF 開放式平台，提供一站式商務服務，專為全球 VTuber 玩家打造全新娛樂體驗,4,正面,https://finance.technews.tw/2024/10/04/htcs-september-revenue-increased-by-more-than-65-month-on-month/,TECHNEWS,2024/10/4
+2,財經,中國進一步收緊對稀土開採、冶煉和出口限制,在中國運營的最後兩家外資稀土冶煉廠正在被一家中國國有企業收購，該企業是中國三家從事稀土冶煉的國有企業之一,0,中性,https://cn.nytimes.com/china/20241028/china-critical-minerals-semiconductors/zh-hant/,NYT,2024/10/28
+2,財經,中國宣布對歐洲白蘭地實施臨時反傾銷措施,"在歐盟成員國上週五投票決定繼續
 對中國電動汽車徵收反補貼關稅
-後，中國商務部發布了針對白蘭地的措施",0,中性,https://cn.nytimes.com/business/20241009/china-europe-brandy/zh-hant/,NYT,2024-10-09
-3,財經,中國施壓、外國抵制：在華外企陷入「新疆困境」,據全球企業的顧問稱，對PVH展開調查可能會提供又一個讓公司從中國撤出的理由,0,中性,https://cn.nytimes.com/business/20241008/china-xinjiang/zh-hant/,NYT,2024-10-08
-4,財經,Pro 機款仍是出貨主力，郭明錤：標準版 iPhone 16 需求仍低迷,iPhone 16 Pro 的出貨量與去年的 iPhone 15 Pro 類似，不過 iPhone 16 Pro 的出貨時間比 iPhone 15 Pro 更短,0,中性,https://finance.technews.tw/2024/10/10/iphone-16-series-shipment-2/,TECHNEWS,2024-10-10
-4,財經,蘋果未全解鎖 Apple Intelligence，摩根大通：iPhone 16 未引爆商機,外資摩根大通（JP Morgan）在最新研究報告中，在蘋果人工智慧應用 Apple Intelligence 尚未解鎖完整功能的情況下，9 月初最新發表的 iPhone 16 系列智慧型手機並未引爆採購商機,0,中性,https://finance.technews.tw/2024/10/03/jpmorgan-chase-iphone-16-has-not-ignited-business-opportunities/,TECHNEWS,2024-10-03
-4,財經,彭博：蘋果認為 AI 開發至少落後兩年,蘋果 Apple Intelligence 於 6 月 WWDC 大會亮相，但即便已展示 AI 服務，不過《彭博社》記者 Mark Gurman 最新專欄指出，現在傳出部分員工認為，蘋果 AI 開發落後約兩年,1,正面,https://finance.technews.tw/2024/10/21/apple-intelligence-development-progress/,TECHNEWS,2024-10-21
-4,財經,iPhone 16 減單 300 萬？巴克萊：蘋果砍台半導體夥伴訂單,以 Apple Intelligence 為最大賣點的 iPhone 16 系列需求似乎不如預期，據巴克萊分析師最新的報告顯示，蘋果可能減產 300 萬支 iPhone 16,-1,負面,https://finance.technews.tw/2024/10/02/iphone-16-cuts/,TECHNEWS,2024-10-02
-4,財經,"AI 也救不了？郭明錤：Q424 至 H125 iPhone 16 訂單砍 1,000 萬支","蘋果希望透過 Apple Intelligence 拉抬 iPhone 16 系列機款出貨量，只是據天風國際分析師郭明錤最新的調查顯示，iPhone 16 訂單在 2024 年 4 季至 2025 上半年這段期間減少了約 1,000 萬支，其中大部分的砍單都落在非 Pro 機款，iPhone 16 2H24 產量目前估計為 8,400 萬部（低於先前的約 8,800 萬部）",0,中性,https://finance.technews.tw/2024/10/24/q424-1h25-iphone-16/,TECHNEWS,2024-10-24
-5,財經,SAP 生成式 AI 智慧助理 Joule 加速企業革新,SAP 為其能夠真正理解企業的生成式 AI 智慧助理 Joule 引入協作式 AI 代理技術，擴展 Joule 的能力以支援 SAP 80% 最常使用的營運任務，同時將 Joule 更深嵌入公司各項解決方案中,6,正面,https://finance.technews.tw/2024/10/10/sap-joule/,TECHNEWS,2024-10-10
-5,財經,中華電攜手全球 IOWN 夥伴推動次世代資通訊與運算技術,信於 10 月 8 日至 11 日參加在台北舉行的「IOWN Global Forum（創新全光和無線網路全球論壇）第七屆大會」，展示全光網路與跨雲傳送技術的最新研發成果，共同推動次世代資通訊網路與運算基礎發展,4,正面,https://finance.technews.tw/2024/10/10/cht-iown-global-forum/,TECHNEWS,2024-10-10
-5,財經,永慶房屋以 AI 領航房產科技發展，「i 特助」榮獲國際大獎肯定,永慶房產集團資訊部協理呂學堯分享，永慶房屋的「 i 特助」整合了四大創新特色，分別是：「 AI 驅動的找房服務」、「人機一體的房地產諮詢」、「多人決策的同步參與」以及「客戶服務的自動化」,2,正面,https://finance.technews.tw/2024/10/24/buyyungchingaihouse/,TECHNEWS,2024-10-24
-5,財經,盤點史上最大 11 起科技併購！經典交易改變產業遊戲規則,整體來說，科技業多年來一直是併購活動最多的產業，並在 2021 年全球交易總價值達到頂峰，達 1.24 兆美元，而最成功的科技併購交易包括 Facebook 和 WhatsApp、IBM 和 Red Hat、微軟和動視暴雪、微軟和 LinkedIn 之間的交易,1,正面,https://finance.technews.tw/2024/10/09/11-largest-tech-acquisitions-of-all-time/,TECHNEWS,2024-10-09
-5,財經,強化機器人關鍵零組件！創博攜三大 AI 機器人控制方案進軍韓國,"工業電腦大廠
-旗下子公司創博（NexCOBOT）今年參與韓國舉辦的 RobotWorld 2024，展出三大 AI 機器人主題，包含機器人動態安全控制、機器人 AI 視覺應用，以及機器人模組化應用，滿足工業 4.0 及智慧製造的需求",2,正面,https://finance.technews.tw/2024/10/24/robotworld-2024/,TECHNEWS,2024-10-24
-6,財經,美國制裁失效？台積電尖端晶片流入華為,由於擔心先進晶片可能被用于軍事目的，美國政府一直試圖阻止中國公司購買這些晶片,-2,負面,https://cn.nytimes.com/business/20241030/tsmc-huawei-computer-chips/zh-hant/,NYT,2024-10-30
-6,財經,微軟、輝達、軟銀砸銀彈，OpenAI 完成新一輪 66 億美元融資,OpenAI 新一輪融資如傳聞在本週完成，從微軟、輝達、軟銀等投資人共募得 66 億美元,1,正面,https://finance.technews.tw/2024/10/03/openai-has-raised-6-6-billion-in-new-funding-at-a-157-billion-post-money-valuation/,TECHNEWS,2024-10-03
-6,財經,AI 搜尋引擎有望顛覆傳統模式，Perplexity 尋求新一輪 5 億美元融資,開發 AI 搜尋引擎 Perplexity 的新創公司 Perplexity AI 傳出尋求新一輪 5 億美元融資，有望是一年內的第四輪融資,2,正面,https://finance.technews.tw/2024/10/21/perplexity-in-funding-talks-to-more-than-double-valuation-to-8-billion/,TECHNEWS,2024-10-21
-6,財經,維持美國半導體競爭力，拜登免除部分半導體廠房環境審查,因 2022 年 527 億美元晶片法案補助的半導體企業，如果沒有新法案，須受 1969 年《國家環境政策法》（National Environmental Policy Act）規範，被迫做額外環境審核才能取得補助,1,正面,https://finance.technews.tw/2024/10/03/biden-exempts-chip-bill-from-subsidizing-companies-from-environmental-review/,TECHNEWS,2024-10-03
-6,財經,降低深度依賴中國，黃仁勳宣布大規模投資泰國,近年來，泰國已從亞馬遜、Google 和微軟等主要科技大廠獲得了數十億美元的投資，以建立資料中心和雲端運算基礎設施,1,正面,https://finance.technews.tw/2024/10/23/jen-hsun-huang-will-announce-huidas-large-scale-investment-plan-in-thailand/,TECHNEWS,2024-10-23
-7,財經,"碳交所啟動國內碳權交易平台！中鋼、奇美首批 6,080 噸上架","碳交所今日正式啟動「國內減量額度交易平台」，總經理田建中表示，目前第一批國內碳權商品已有 6 個專案上架，包括
-、奇美、台北 101、漢寶農業、漢寶農畜產，以及漢程客運，合計有 6,080 噸上架，每噸價格落在 2,500 至 4,000 元之間",1,正面,https://finance.technews.tw/2024/10/21/domestic-carbon-rights/,TECHNEWS,2024-10-21
-7,財經,金管會：優先推動台日跨境 ETF 相互掛牌，強化合作,為強化資本市場國際合作，打造台灣成為亞洲資產管理中心，金管會表態將優先推動台日跨境 ETF 相互掛牌，擬公告日本為台灣承認的境外 ETF 基金註冊地與基金管理機構所在地，以促進兩地市場交易所 ETF 跨境上市,4,正面,https://finance.technews.tw/2024/10/23/tw-jp-etf/,TECHNEWS,2024-10-23
-7,財經,接班歷練，吳東亮么子吳昕豪出任台新人壽副董事長,新高層人事布局，子公司台新人壽 22 日召開董事會，推舉董事吳昕豪出任副董事長,0,中性,https://finance.technews.tw/2024/10/23/succeed-taishin-life/,TECHNEWS,2024-10-23
-7,財經,跟著台積電擴大日本服務網絡！玉山熊本出張所開業,"熊本縣知事木村敬表示，自
-進駐日本以來，吸引半導體產業至熊本設廠，並帶動維修保養、物流倉儲等相關產業發展，玉山是台灣中小企業金融的首選銀行，期待玉山能成為台資企業進駐九州的最佳助力，並持續促進台灣與熊本各方面的交流",5,正面,https://finance.technews.tw/2024/10/26/japan-service-network/,TECHNEWS,2024-10-26
-7,財經,揪個人逃漏不動產交易租金所得，近四年補稅 58 億元,財政部官員表示，「個人不動產相關所得專案查核」有兩項查核重點，即交易所得、租賃所得；交易所得查核目的主要是為遏止短期投機炒作房地，國稅局加強查核個人舊制房屋、預售屋及適用房地合一稅制度的交易案件,-2,負面,https://finance.technews.tw/2024/10/27/mof-took-actions-on-housing-tax-evasion/,TECHNEWS,2024-10-27
-8,財經,美銀：市場難以吸收新債，黃金成「最後避風港」,財政支出持續增加，不僅只是美國的問題,0,中性,https://finance.technews.tw/2024/10/18/gold-is-the-last-safe-haven-as-treasurys-face-risks-from-soaring-us-debt/,TECHNEWS,2024-10-18
-8,財經,Siegel：共和黨若完全執政，殖利率、美股將衝高,Siegel 28日並在WisdomTree每週評論指出，美國10年期公債殖利率目前已揚升至4.2%附近，預測未來可能進一步走升、因為經濟仍保持強勁,0,中性,https://finance.technews.tw/2024/10/29/if-the-republicans-win-the-election-yields-may-continue-to-rise/,TECHNEWS,2024-10-29
-8,財經,經濟增長仍有風險，適度減持股票,總結來看，全球經濟雖有所改善，但增長放緩與通膨壓力下降的過程較為緩慢，資產配置建議適度減少股票，增加美國固定收益資產,0,中性,https://finance.technews.tw/2024/10/08/economy-reduce-stock-holdings/,TECHNEWS,2024-10-08
-8,財經,中國三季度GDP增速4.6% 喜憂參半能否「保5」成功？,「我們預計，中國今年（GDP）增長4.7%，2025年增長4.8%,0,中性,https://www.bbc.com/zhongwen/trad/chinese-news-69424525,BBC,2024-10-18
-8,財經,黃金送分題！施羅德：此時此刻別錯過有生之年「金」不敗,"林良軍表示，地緣政治衝突升高和市場不確定性推升，金礦股具有避險效益，全球主要機構上調金價至 2,800~3,000 美元，隨著歐美和中國的短期利率將持續下降，黃金市場尚未完全反映以實物黃金為支撐的黃金現貨價",-4,負面,https://finance.technews.tw/2024/10/26/gold-etf/,TECHNEWS,2024-10-26
-9,財經,辛巴威金圓券發行五個月之後又不行了,（來源：達志影像）,0,中性,https://finance.technews.tw/2024/10/04/zimbabwes-new-currency-faces-headwinds-five-months-on/,TECHNEWS,2024-10-04
-9,財經,Robinhood 推出新交易平台，瞄準「聰明散戶」,美國新興券商 Robinhood 推出全新桌面交易平台 Robinhood Legend，並新增交易期貨、指數的功能，瞄準活躍執行交易的散戶,0,中性,https://finance.technews.tw/2024/10/17/robinhood-legend/,TECHNEWS,2024-10-17
-10,財經,高雄買房從「一入手就跌價」變每坪漲到 60 萬！台積電效應全解讀：從老舊髒臭變「AI 新都」,"（本文由《
-》授權轉載；來源：shutterstock）",0,中性,https://finance.technews.tw/2024/10/05/kaohsiung-real-estate/,TECHNEWS,2024-10-05
-10,財經,輝達等 AI 股領軍勁揚，標普、台積 ADR 史高,受到投資人尋找軟著陸線索、在一系列經濟數據及財報出爐前搶進科技股的帶動，道瓊工業平均指數、標準普爾 500 指數再創歷史收盤新高,0,中性,https://finance.technews.tw/2024/10/15/nvidia-sp-500-usa-stock-market/,TECHNEWS,2024-10-15
-10,財經,德州儀器 Q3 工業營收雖疲、但其他市場優，盤後勁揚,根據FactSet調查，分析師原本預測該公司Q3營收、每股盈餘將達41.2億美元、1.38美元,0,中性,https://finance.technews.tw/2024/10/23/ti-reports-third-quarter-2024-financial-results-and-shareholder-returns/,TECHNEWS,2024-10-23
-10,財經,微軟 Azure 新一季營收成長 33%，AI 貢獻 12 個百分點,微軟的個人運算營收 132 億美元、年增 17%，這部分包括 Windows OEM、Surface 和 Xbox 產品、遊戲等,0,中性,https://finance.technews.tw/2024/10/31/microsoft-q1-fy25-earnings/,TECHNEWS,2024-10-31
-10,財經,股債市況熱絡，高盛業績大進補 Q3 淨利激增 45%,"根據高盛10月15日公布的最新
-，2024年第三季（截至2024年9月30日），營收年增7%至127億美元，優於市場預期的118億美元；淨利較去年同期激增45%至29.9億美元，即每股盈餘8.40美元，優於市場預期的6.89美元",0,中性,https://finance.technews.tw/2024/10/16/goldman-sachs-2024q3-financial-reporting/,TECHNEWS,2024-10-16
-11,財經,改名 X 也不能避責，澳洲法院下令繳交 Twitter 違規罰款,澳洲法院法官 Justice Wheelahan 駁回 Twitter 不再存在說法，裁定 X 繼承舊公司 Twitter 的法律責任,0,中性,https://finance.technews.tw/2024/10/10/twitter-australian-courts/,TECHNEWS,2024-10-10
-11,財經,英國加入 CPTPP 累計七國批准，12/15 生效實施,未來只要新增一個完成批准英國入會協定並完備國內程序的CPTPP成員經濟體，適用英國CPTPP貿易條件的國家就多一個,2,正面,https://finance.technews.tw/2024/10/17/uk-cptpp-approve/,TECHNEWS,2024-10-17
-11,財經,美國麥當勞漢堡疑涉大腸桿菌災情、面臨調查，盤後崩,速食龍頭麥當勞驚傳食安風波，熱門產品四盎司牛肉堡（Quarter Pounder）疑似受大腸桿菌污染、引發多起感染病例，現正面臨美國疾病管制預防中心（CDC）調查；麥當勞股價盤後大跌近 6%,-2,負面,https://finance.technews.tw/2024/10/23/mcdonalds-quarter-pounders-linked-to-deadly-e-coli-outbreak/,TECHNEWS,2024-10-23
-11,財經,富士康四名台灣員工被鄭州警方拘留,台灣表示，中國當局拘留了四名富士康員工,-1,負面,https://cn.nytimes.com/business/20241011/foxconn-zhengzhou-china-detentions/zh-hant/,NYT,2024-10-11
-11,財經,耶倫呼籲加快全球債務減免，批評中國放貸「不透明」,在採訪中，耶倫拒絕討論大選政治，但她警告，從世界銀行和國際貨幣基金組織等機構中撤退將削弱美國的全球影響力，同時使中國獲得更大影響力,-3,負面,https://cn.nytimes.com/usa/20241023/janet-yellen-china-lending/zh-hant/,NYT,2024-10-23
-12,財經,三星只能感嘆，SK 海力士受惠 AI 記憶體第三季創營收新高紀錄,第三季營運表現亮眼原因，是 AI 記憶體市場需求持續續表現強勢，SK 海力士順應趨勢擴大 HBM、eSSD（企業級固態硬碟）等高附加值產品銷售，獲成立後最大規模單季營收金額，尤其 HBM 營收大成長，較上季成長 70%，較 2023 年同期成長 330%,1,正面,https://finance.technews.tw/2024/10/24/sk-hynix-benefits-from-ai-memory-and-hits-record-revenue-in-third-quarter/,TECHNEWS,2024-10-24
-12,財經,LG 品牌重塑成功，品牌價值倍增至 65 億美元,LG 的品牌價值大幅提升，反映出其業務及品牌競爭力相較於去年有顯著進步，該公司在品牌影響力和品牌優勢兩項指標中皆獲取高分，品牌價值比去年同期增長了 38.7%，LG 獲得全球排名第 97 位，品牌價值約為 65 億美元,5,正面,https://finance.technews.tw/2024/10/23/lg-rebranding/,TECHNEWS,2024-10-23
-12,財經,南亞科第三季營收季減 18%，調降資本支出至 200 億元因應設備交期變化,總經理李培瑛表示，2024 年第三季在整體市況方面，AI 應用的需求仍熱絡，一般 PC、手機及消費型電子產品終端需求不如預期,-1,負面,https://finance.technews.tw/2024/10/09/nanyas-third-quarter-revenue-fell-18-quarter-on-quarter/,TECHNEWS,2024-10-09
-12,財經,證交所准了！董事會通過 LINE Pay、永鴻生技等四家公司上市案,連加網路資本額 6 億元，主要業務涵蓋第三方支付服務、資料處理服務及電子資訊供應等領域，2023 年稅前純益達 6.13 億元，每股盈餘 8.09 元，2024 上半年稅前純益為 5.03 億元，每股盈餘為 6.12 元，展現公司在行動支付市場中穩定成長的營運能力,3,正面,https://finance.technews.tw/2024/10/23/apply-for-listing/,TECHNEWS,2024-10-23
-12,財經,南亞科 9 月營收月減 7.76%，10 月 9 日召開第三季法說會公布財報,當 AI 帶動 HBM / DDR5 需求強勁情況下，傳統 DRAM 產品的供應將受到影響而減少，但因為因消費者需求的長期復甦和競爭，將導致獲利動能減弱的南亞科,-3,負面,https://finance.technews.tw/2024/10/04/nanyas-september-revenue-fell-7-76-month-on-month/,TECHNEWS,2024-10-04
-0,國際,減肥藥將如何改變我們與食物的關係,關於這些藥怎麼用，很可能改變我們未來健康狀況，甚至改變我們社會的面貌,1,正面,https://www.bbc.com/zhongwen/trad/science-69431760,BBC,2024-10-22
-0,國際,野生大熊貓到底有多少？,美國動物園指出，野生大熊貓數量的增加（最近的一次統計為1864隻）證明，他們在保護大熊貓方面投入的數千萬美元已達到預期效果,2,正面,https://cn.nytimes.com/china/20241015/panda-census-china-national-zoo-data/zh-hant/,NYT,2024-10-15
-0,國際,中國研究生大躍進，「本研倒掛」瞄向解決就業還是高等教育升級,」因為找不到工作而繼續讀研的情況一定有，但我們不能說讀研的學生完全是因為找不到工作,-3,負面,https://www.bbc.com/zhongwen/trad/chinese-news-69417409,BBC,2024-10-16
-0,國際,颶風米爾頓襲美國：今年風暴為何如此猛烈？,美國國家海洋暨大氣管理局（NOAA）預計到颶風季結束時，將出現17到24個命名的熱帶風暴，其中8到13個可能成為颶風，而4到7個可能成為重大颶風,2,正面,https://www.bbc.com/zhongwen/trad/science-69403624,BBC,2024-10-09
-0,國際,信息「禁令」、限制直播：中國對租借大熊貓有哪些條件,"對大熊貓直播攝像頭的限制
-去年，孟菲斯動物園的一隻大熊貓樂樂在大熊貓愛好者通過動物園直播影片看到它病情惡化後死亡",-2,負面,https://cn.nytimes.com/china/20241019/panda-rental-contracts/zh-hant/,NYT,2024-10-19
-1,國際,華為「純血」鴻蒙面世 脫鉤安卓對標蘋果如何謀求三分天下,"」
-有分析稱，以軟體開發市場來說，如果都只在原有的安卓、蘋果iOS系統上進行研發，即便軟體技術研發屢次有所突破，也很難完善中國自主可控的行動作業系統",3,正面,https://www.bbc.com/zhongwen/trad/business-69438203,BBC,2024-10-24
-3,國際,電動車關稅引發中國報復 德國和法國領銜展示並不團結的歐盟,政治學者杜本表示，德國這次投下反對票，是基於商業考量和汽車產業的游說壓力，但在政治和戰略上，柏林還是與法國等其它主要歐盟國家立場一致，認為從中期來看，有必要在經濟上撤離中國，甚至採取更強硬的政治立場來對抗北京的擴張主義,1,正面,https://www.bbc.com/zhongwen/trad/business-69406723,BBC,2024-10-14
-3,國際,歐盟正式對中國產電動汽車加徵關稅,歐洲領導人表示，他們願意與各家汽車公司進行談判，設定在歐洲銷售汽車的協議底價,2,正面,https://cn.nytimes.com/business/20241031/european-union-china-electric-vehicle-tariffs/zh-hant/,NYT,2024-10-31
-3,國際,神舟十九號發射升空：中國最年輕航天員成功進入太空,中國已經選拔了下一批太空人，他們將為潛在的月球任務以及太空站太空人進行訓練,2,正面,https://www.bbc.com/zhongwen/articles/cjr48857qe8o/trad,BBC,2024-10-30
-3,國際,中國陰影籠罩歐洲，西班牙試圖擴大對華經濟聯繫,「中國是（歐盟和西班牙的）一個重要經濟夥伴，」西班牙經濟大臣卡洛斯·奎爾波在馬德里的辦公室表示,1,正面,https://cn.nytimes.com/world/20241031/spain-china-investment/zh-hant/,NYT,2024-10-31
-3,國際,巴基斯坦中國人遇襲：為何中國海外工人在巴基斯坦等多國成為襲擊目標？,巴基斯坦中國人遇襲：為何中國海外工人在巴基斯坦等多國成為襲擊目標,-1,負面,https://www.bbc.com/zhongwen/trad/world-69398262,BBC,2024-10-08
-6,國際,台積電先進AI晶片流入華為 凸顯對華晶片禁運的監管困境,"台積電先進AI晶片流入華為 凸顯對華晶片禁運的監管困境
-2024年10月25日
-本周傳出美國科技公司Techinsights，拆解華為最新的AI加速器「升騰910B」後，發現使用的是台積電7奈米晶片，在全球半導體及美國政界引發喧然大波",-1,負面,https://www.bbc.com/zhongwen/trad/business-69440872,BBC,2024-10-25
-8,國際,BBC專訪神田真人：斥資1700億美元提振日元的幕後推手,為了控制日元的跌勢，神田先生動用了約25萬億日元（1730億美元）來支撐貨幣，這是日本近四分之一個世紀以來首次進行此類干預,1,正面,https://www.bbc.com/zhongwen/trad/business-69389927,BBC,2024-10-04
-8,國際,特朗普對進口產品加徵關稅，美國消費者到底受益還是受傷——事實核查,而對這些進口商品徵收的關稅在該年度帶來800億美元收入，約佔美國總稅收的2%,-1,負面,https://www.bbc.com/zhongwen/trad/business-69414958,BBC,2024-10-17
-11,國際,關於朝鮮的軍事力量，我們所知道的,有些專家說，從拍到的朝鮮士兵在俄羅斯的影片來看，那些朝鮮士兵更像是工程兵，而不是精銳的特種部隊,0,中性,https://cn.nytimes.com/asia-pacific/20241025/north-korea-military-capability/zh-hant/,NYT,2024-10-25
-11,國際,朝鮮派兵援俄背後，普丁為何選擇「擁抱」朝鮮,"美國、烏克蘭和韓國情報機構稱，
-最近幾週已有數以千計朝鮮人抵達俄羅斯
-，協助俄羅斯在烏克蘭的作戰行動，加深了普丁和朝鮮領導人金正恩今年早些時候重新建立的軍事聯盟",-1,負面,https://cn.nytimes.com/world/20241025/russia-north-korea/zh-hant/,NYT,2024-10-25
-11,國際,朝鮮從烏克蘭戰爭中得到了什麼,"」
-韓國分析人士表示，朝鮮對俄羅斯戰爭的主要人員貢獻可能是工程師和武器顧問，他們幫助俄羅斯軍方操作武器，觀察缺陷，並收集戰場使用數據",-2,負面,https://cn.nytimes.com/asia-pacific/20241017/north-korea-ukraine-russia/zh-hant/,NYT,2024-10-17
-11,國際,美國中央情報局在朝鮮、伊朗和中國招線人 暗網上可應聘,"」
-里奇教授認為，美國的目標可能是那些非正式地越過中國邊境的朝鮮商人，他們可能能夠訪問VPN網絡",-1,負面,https://www.bbc.com/zhongwen/trad/world-69392273,BBC,2024-10-04
-11,國際,當賀錦麗向川普支持者伸出橄欖枝,為了贏得選舉，賀錦麗必須激勵痛恨川普的民主黨基本盤，同時贏得獨立選民和共和黨選民的支持，這些選民更關心的是自己的錢包,1,正面,https://cn.nytimes.com/usa/20241031/kamala-harris-trump-voters/zh-hant/,NYT,2024-10-31
-0,科技,不好用就 Fire！歐美掀 Z 世代解僱潮，怎麼與「被開除也不怕」世代和平共事,104人力銀行職涯教育長王榮春指出，台灣雖然沒有觀察到新鮮人被裁員現象，但主管內心多少會有些抱怨,-2,負面,https://technews.tw/2024/10/28/gen-z-layoffs/,TECHNEWS,2024-10-28
-0,科技,科學家發現，類胡蘿蔔素化合物可延長壽命並預防阿茲海默症,西班牙塞維利亞大學藥學院和英國肯特大學研究團隊發現，類胡蘿蔔素之一的 Phytoene 化合物（八氫番茄紅素）可延長壽命並預防阿茲海默症,0,中性,https://technews.tw/2024/10/04/scientists-have-discovered-a-dietary-compound-that-increases-longevity/,TECHNEWS,2024-10-04
-0,科技,全像暗能量模型顯示，宇宙以大凍結方式結束,隨著宇宙膨脹，普通物質和暗物質密度都會下降，暗能量越來越明顯，為研究宇宙最終命運，兩位天文物理學家研究了宇宙是否確實由全像暗能量主導，以及全像暗能量演化,1,正面,https://technews.tw/2024/10/21/big-freeze-universe-holographic-dark-energy/,TECHNEWS,2024-10-21
-0,科技,模仿免疫系統，類肽分子成抗病毒新希望,傳統的抗病毒藥物主要針對病毒表面的蛋白質，但病毒能快速突變產生抗藥性，使治療效果大打折扣,1,正面,https://technews.tw/2024/10/02/breaking-viral-defenses-with-next-gen-peptoids/,TECHNEWS,2024-10-02
-0,科技,減重靠間歇性斷食半年恐失效，研究：睡眠定成敗,柯里特引用一份來自加拿大魁北克家族研究發現，經過長達6年的體重變化追蹤，不論是9小時的過長睡眠時間，或是過短的不到6小時睡眠，皆會對體重造成影響，增胖率偏高；但每天規律、充足7至8小時的睡眠，增胖率是最低，證明規律生理節律對於代謝非常重要,0,中性,https://technews.tw/2024/10/21/sleep-is-very-important/,TECHNEWS,2024-10-21
-1,科技,新一波抗癌新藥主流！浩鼎以獨家平台加入開發雙抗 ADC 行列,"抗體藥物複合體（Antibody-Drug Conjugate，ADC）已成當今抗癌新藥的主流，同時針對兩種抗原的雙特異性 ADC，各大藥廠早已開始布局相關設計及技術，台灣
-生技今日宣布，將以獨家專利 ADC 技術平台 GlycOBI，以及特有的 EndoSymeOBI 雙功能酵素，加入開發雙抗 ADC 的行列",1,正面,https://finance.technews.tw/2024/10/17/glycobi/,TECHNEWS,2024-10-17
-1,科技,邁入光儲充三合一新紀元！SolarEdge 攜手 C&I 客戶擁抱能源最佳化,SolarEdge 台灣區總經理蔡尚霖表示，為了迎接光儲充三合一智慧能源調度新紀元的到來，SolarEdge 特別發表了 SolarEdge ONE 工商型雲端能源優化平台，其能集中監控、分析與管理太陽能變流器、功率優化器、電池儲能櫃、電動車充電樁，以及建築負載等能源基礎設施，進而協助工商業客戶打造能源利用率最佳化的智慧型微電網,4,正面,https://technews.tw/2024/10/04/solaredge-a-new-era-of-solar-storage-and-charging/,TECHNEWS,2024-10-04
-1,科技,台達電打造 All-in-One 儲能系統，DELTerra 推出新系列,而隨電力來源多樣化、微電網及 AI 技術推進，電網由傳統單向發電逐步走向多來源、分散式及雙向傳輸的智慧電網，需要高度整合、即時、彈性的能源基礎設施才能有效因應，而台達電全方位能源解決方案可滿足客戶需求,5,正面,https://technews.tw/2024/10/04/delta-at-energy-taiwan-2024/,TECHNEWS,2024-10-04
-1,科技,終於有黑科技電池要商轉，格斯東芝簽署合作協議生產 NTO 電池,和其他黑科技電池不同之處在於，這款電池即將在明年開始進入量產商業化，負責生產的就是台灣電池廠格斯科技,2,正面,https://technews.tw/2024/10/08/gus-toshiba-nto-battery-cowork/,TECHNEWS,2024-10-08
-1,科技,德州儀器日本會津工廠開始生產氮化鎵，自有產能將提升四倍,TI 的整合式 GaN 功率級產品組合讓客戶可實現更高的功率密度、提升易用性，並降低系統成本,1,正面,https://technews.tw/2024/10/25/texas-instruments-begins-production-of-gallium-nitride-at-aizu-plant-in-japan/,TECHNEWS,2024-10-25
-2,科技,2024 胡潤百富榜：字節跳動張一鳴成中國首富,"1,094位個人財富50億人民幣以上企業家登上今年胡潤百富榜，較去年減少12%；上榜企業家總財富21兆人民幣，較去年下降10%（2.4兆人民幣）；千億級企業家較去年減少四位至26位",-1,負面,https://finance.technews.tw/2024/10/29/bytedance-zhang-yiming-becomes-china-richest-man/,TECHNEWS,2024-10-29
-2,科技,歐洲電動車銷量再現增長，特斯拉大增 30%,9月份美國特斯拉在歐洲市場的銷售量大增30%至4.4萬台、銷售量高於福特（Ford）的4.2萬台（較去年同月減少16%）,-1,負面,https://technews.tw/2024/10/23/europe-ev-sales-september/,TECHNEWS,2024-10-23
-2,科技,特斯拉美國市占連兩季跌破 50%，日廠銷量飆兩倍,歐系車廠在美國市場銷售陷入苦戰，八個歐系品牌（含中國資本）上季電動車銷售量合計為4萬661台，較去年同期大減約24%，歐系品牌合計市占率為12%，低於去年同期17%,-1,負面,https://technews.tw/2024/10/17/usa-ev-sales-q3/,TECHNEWS,2024-10-17
-2,科技,特斯拉自駕計程車 Cybercab 上路，售價不到 3 萬美元,"台灣時間 10 月 11 日上午，特斯拉（Tesla）備受關注的 Robotaxi 自駕計程車終於「We, Robot」發表會亮相，正式名稱為 Cybercab，銀色外型時尚流利，承襲一點 Cyber​​truck 味，搭載特斯拉最先進 FSD 系統及剪刀式向上開雙車門，但只能坐兩名乘客",2,正面,https://technews.tw/2024/10/11/tesla-robotaxi-robovan-optimus-cybercab/,TECHNEWS,2024-10-11
-2,科技,馬斯克預言：世界到 2040 年將有 100 億台人形機器人,據報導，馬斯克預言，這世界到2040年可能至少會有100億台人形機器人，每台售價落在2萬至2.5萬美元之間,0,中性,https://technews.tw/2024/10/30/elon-musk-10-billion-humanoid-robots-by-2040-at-20k-25k-each/,TECHNEWS,2024-10-30
-3,科技,NASA發射探測器 探尋木衛二是否具生命存在條件,NASA官員迪布拉喬（Gina DiBraccio）在發射前表示：「透過木衛二快艇，我們不是在木衛二尋找生命，而是試圖了解這個海洋世界是否宜居，而這意味著我們在尋找水源…我們在尋找能量來源，也在深入研究那裡的化學作用，這樣我們才能了解整個宇宙中，哪些環境可能適合居住,1,正面,https://www.cna.com.tw/news/ait/202410150097.aspx,CNA,2024-10-15
-3,科技,預防彗星撞地球美歐接力研測，盼 2030 年建立防衛機制,"」
-歐洲太空總署小行星資料庫直徑超過100公尺的太空物體有3.6萬多，1,668顆屬「不排除會撞上地球」的觀察名單",-2,負面,https://technews.tw/2024/10/08/asteroid-mission-aims-to-save-humans-from-the-fate-of-the-dinosaurs/,TECHNEWS,2024-10-08
-3,科技,黑洞摧毀恆星，並瞄準下個目標,2019年，天文學家觀測到一顆恆星因太靠近黑洞被黑洞重力摧毀，此潮汐瓦解事件代號為AT2019qiz，是2019年由帕洛馬天文台茲威基瞬變設施（Zwicky Transient Facility，ZTF）首次發現,-2,負面,https://technews.tw/2024/10/17/black-hole-destroys-star-goes-after-another/,TECHNEWS,2024-10-17
-3,科技,預防彗星撞地球美歐接力研測 盼2030建起防衛機制,美國2022年測試飛行器撞偏小行星軌道以免撞上地球，如今歐洲派探測器再飛赴標靶小行星研究撞擊後續影響,0,中性,https://www.cna.com.tw/news/ait/202410080157.aspx,CNA,2024-10-08
-3,科技,宇宙遠距三角戀，首發現包含黑洞的特殊三合系統,天文學家第一次發現約存在 40 億年的「黑洞三合」系統，由 1 個黑洞與 2 顆恆星組成，黑洞貪婪地以其中 1 顆伴星為食，另顆恆星則謹慎地在更遙遠地方繞黑洞運行,0,中性,https://technews.tw/2024/10/30/v404-cygni-black-hole-triple/,TECHNEWS,2024-10-30
-4,科技,蘋果 A18 非「閹割版」A18 Pro：兩晶片架構設計大不同,這次 Chipwise 裸晶照顯示，儘管 A18 和 A18 Pro 整體布局相似，但 A18 Pro 有更多電晶體，且亮區面積更大，證實蘋果沒有分級晶片，而是為不同型號 iPhone 16 各自設計獨立晶片,0,中性,https://technews.tw/2024/10/03/apples-a18-chip-is-unique-design-not-a-binned-a18-pro/,TECHNEWS,2024-10-03
-4,科技,蘋果欲將 Apple Watch Series 10 的 LTPO3 移植到 iPhone,蘋果 9 月推出最新 Apple Watch Series 10 系列，並對 Apple Watch Series 10 重大更新；較前代更薄、顯示器也稍大,1,正面,https://technews.tw/2024/10/25/ltpo3-iphone/,TECHNEWS,2024-10-25
-4,科技,Snapdragon X Elite 以面積增效能，新一代晶片力拚蘋果 M 系列,12 核心 CPU 模組則可能是 Snapdragon X Elite 處理器面積尺寸較大的原因,0,中性,https://technews.tw/2024/10/01/snapdragon-x-elite-increases-performance-with-area/,TECHNEWS,2024-10-01
-4,科技,尺寸直接砍超過一半！M4、M4 Pro Mac mini 外觀僅剩 5×5 吋,"與搭載 Intel Core i7 的 Mac mini 相比，搭載 M4 的 Mac mini：
-與搭載 M1 的 Mac mini 相比，搭載 M4 的 Mac mini：
-針對需要專業級效能的使用者，搭載 M4 Pro 的 Mac mini 具備世界上最快的 CPU 核心，以及快如閃電的單執行緒效能",2,正面,https://technews.tw/2024/10/29/m4-m4-pro-mac-mini/,TECHNEWS,2024-10-29
-4,科技,三星預告新摺疊機 Galaxy Z Fold 特別版 10/21 亮相,由於智慧手機市場競爭激烈，各品牌廠努力尋求差異化特色，促使兼具輕便與大螢幕的摺疊螢幕手機快速崛起，其中以三星 Z 系列摺疊機最具代表性,1,正面,https://technews.tw/2024/10/18/samsung-galaxy-z-fold-special-edition-preview/,TECHNEWS,2024-10-18
-5,科技,高通 Snapdragon 高峰會談 AI：從大眾轉往特定領域、解決 AI 間通訊是挑戰,高通在 Snapdragon 高峰會第三天議程上的 AI Talk 中問答環節，提到由於 AI 蓬勃發展，預期未來不同國家會建立自己的模型，另外 AI 會從過去公領域延伸到特定領域的特定模型，如醫學可能會出現一個「PC Copilot」,2,正面,https://technews.tw/2024/10/24/qualcomm-2024-summit-ai-talk/,TECHNEWS,2024-10-24
-5,科技,Arm：重塑未來，當代生活 Arm 產品將無所不在,"在今年度的Arm Tech Synmposia場會上，
-、
-等系統廠的AI產品亦參與展出相關的AI產品，其餘參與Arm生態系與今年度Symposia的台廠則包括IP廠
-、
-等公司",0,中性,https://technews.tw/2024/10/29/arm-in-life/,TECHNEWS,2024-10-29
-5,科技,2024 橋梁安全維護管理研討會盛大舉辦！邀您共襄盛舉,會中將匯聚政府、學術界、顧問公司等多位專家學者，深入探討並分享雲端、物聯網、AI及區塊鏈等技術於橋梁安全監測、維護及結構健康診斷中的應用,3,正面,https://technews.tw/2024/10/07/2024-bridgeforum/,TECHNEWS,2024-10-07
-5,科技,解決取證、健保、信任不足問題！衛福部攜 16 家醫院啟動三大 AI 中心,全台積極發展 AI 智慧醫療領域，但都面臨醫病對 AI 不信任、取證困難、健保給付的評估問題，為此，衛福部今日正式宣布成立「負責任 AI 執行中心」、「臨床 AI 取證驗證中心」，以及「AI 影響性研究中心」三大 AI 中心，串連 16 家醫院提交 19 案，協助執行 AI 發展的最後一哩路難題,4,正面,https://technews.tw/2024/10/07/three-major-ai-centers/,TECHNEWS,2024-10-07
-5,科技,2024 TIE 盛大開幕，AI 新技元驅動智慧科技生活化，產業革新再突破,台灣創新技術博覽會（Taiwan Innotech Expo，TIE）於今（17 日）在台北世貿一館盛大開幕，這場全台規模最大的科技盛會今年以「智慧科技島，AI 新技元」為策展主軸，技術主題緊扣六大核心戰略與五大信賴產業，展出超過千項技術與科研成果，為了讓民眾進一步深度認識各產學研技術能量，現場不但在三大主題館「創新領航館」、「未來科技館」、「永續發展館」均有安排互動技術供民眾親身體驗，更設計「TIE 科技奇點大冒險」活動，民眾只要完成互動技術展品體驗，就能至大會服務台兌換專屬好禮,3,正面,https://technews.tw/2024/10/17/2024-tie-taiwan-innotech-expo-2/,TECHNEWS,2024-10-17
-6,科技,川普批台偷美晶片業：關稅高業者就會免費來建廠,川普說，「你對進口晶片課重稅，然後告訴他們：你不必支付關稅，只要在美國建廠就行,0,中性,https://technews.tw/2024/10/29/trump-tariff-chip-factory/,TECHNEWS,2024-10-29
-6,科技,美國制定出口新規，有望放寬 AI 晶片出口中東條件,商務部在一份聲明中表示，申請該計畫的資料中心將經過嚴格審核，確保保障措施到位，防止美國技術被轉移或以有違國家安全的方式使用,1,正面,https://technews.tw/2024/10/01/us-new-rule-ai-chip-shipments-middle-east/,TECHNEWS,2024-10-01
-6,科技,比特大陸恐遭台積電斷供，衝擊加密貨幣市場,"市場消息，中國加密貨幣企業比特大陸旗下算能科技涉嫌違反美國出口禁令，私下幫華為下單給
-，再將晶片交給華為用於昇騰 910B 伺服器處理器，即便比特大陸與算能科技都喊冤和華為沒有業務關係，台積電仍悍然斷供，比特大陸之後無法取得台積電 ASIC 客製化晶片，挖礦機應無法出貨",-3,負面,https://technews.tw/2024/10/30/chinas-bitmain-may-be-cut-off-by-tsmc/,TECHNEWS,2024-10-30
-6,科技,生產中國華為晶片疑雲，美國眾議院議員要求台積電說明,台積電信件表示，已就相關事項與美國商務部積極溝通，台積電不是調查對象,0,中性,https://technews.tw/2024/10/25/suspected-about-producing-chips-for-chinas-huawei/,TECHNEWS,2024-10-25
-6,科技,就是他們偷賣，台積電停止供貨中國算能科技,《路透社》引述兩名熟知內情的消息來源報導指出，中國加密貨幣挖礦公司「比特大陸」旗下的晶片設計公司「算能科技」（Sophgo），就是向台積電下單晶片的公司,-1,負面,https://finance.technews.tw/2024/10/27/sophgo-is-the-one-who-transfer-tsmc-chips-to-huawei/,TECHNEWS,2024-10-27
-7,科技,國內大型案場推動不易，太陽能業放眼海外,近期經濟部長郭智輝拋出赴菲律賓蓋電廠並輸送回台的計畫，以解決國內廠商需要綠電，但要建置大型太陽能電廠又會遇到地方政府的申請進度緩慢或地方民眾的陳抗，所以擬規劃赴菲律賓蓋電廠，國內太陽能業者也表示樂見盼政府可以合組綠電國家隊，但在此之前，國內業者早已早一步布局海外，其中同樣也以菲律賓的進度最快,0,中性,https://technews.tw/2024/10/16/solar-energy-overseas/,TECHNEWS,2024-10-16
-7,科技,新電價 10/16 上路，台電公布 86 個減半與凍漲業別,經濟部電價費率審議會9月30日決議民生電價凍漲，產業電價調整14%，但針對民生內需產業及用電或產值（銷售額）衰退產業，採凍漲或減半調漲，平均漲幅為12.5%,-1,負面,https://finance.technews.tw/2024/10/02/new-electricity-price-october/,TECHNEWS,2024-10-02
-7,科技,因應碳費即將開徵！飲料包材龍頭宏全國際尋求台灣碳資產合作減碳,宏全國際董事長鄭雅文表示，隨著台灣碳費及各國碳稅即將啟動，宏全國際做為飲料包材龍頭廠，為強化減碳措施，持續投入低碳技術和產品開發，並積極採購再生能源，期望透過與台灣碳資產合作，確保各階段的減量路徑符合 SBTi 標準，以滿足國際品牌商的要求,3,正面,https://finance.technews.tw/2024/10/08/sbt/,TECHNEWS,2024-10-08
-7,科技,首購族買房必知稅賦、規費！專家揭代書隱藏成本一次看,葉惠玲表示，購屋初期要面對多項規費及稅賦，最主要的是契稅，為房屋移轉現值的 6%，假設房屋現值 300 萬，契稅就需支付 18 萬，新房子房屋現值較高，契稅就會較高，還包括產權登記過戶時需繳納的印花稅，依土地及建物申報移轉金額現值的千分之一（1‰）計算,0,中性,https://finance.technews.tw/2024/10/29/first-time-buyers/,TECHNEWS,2024-10-29
-7,科技,網家增資統一入股，看起來更像投資優先合作再說,"企業 10 月 23 日入股
-（PChome），取得 30% 股份成為大股東，以現在網家規模雖談不上震撼，但不免令人唏噓，很明顯網家需要統一入股救急，統一也想重新布局電商市場，收購 PChome 前已買下 Yahoo 電商，故與 Yahoo 電商同質的新交易引起市場矚目，代表統一想重新站穩電商領域的決心",2,正面,https://finance.technews.tw/2024/10/29/pchome-and-unipresident-investmant-case/,TECHNEWS,2024-10-29
-8,科技,中國兆元活水救市拉抬 ETF 狂飆！00887 遭示警後又溢價 221.97%,為挽救低迷已久的市場行情，中國出手重拳救市，利多政策助攻中國主要指數齊漲慶祝，其中深具代表性的上證、滬深 300 指數及富時 50 指數出現驚人漲幅，永豐投信公告永豐中國科技 50 大（00887）溢價偏高應留意買貴後，今日終場又飆至 38.83 元，漲幅 116.32%，溢價達 221.97%,-1,負面,https://finance.technews.tw/2024/10/07/00887/,TECHNEWS,2024-10-07
-8,科技,低收入者支出晴雨表，麥當勞銷售額連兩季衰退,但去年形勢開始轉變，食品通膨最終仍然改變消費習慣，且趨勢已定，麥當勞全球銷售額連續第二季下降，美國之外的市場下降最多,-1,負面,https://finance.technews.tw/2024/10/30/low-income-consumer-give-up-madonald/,TECHNEWS,2024-10-30
-8,科技,軟著陸有望？鮑爾：不急著快速降息、就業將穩,市場預期的11月降息兩碼機率大減,0,中性,https://finance.technews.tw/2024/10/01/powell-indicates-further-smaller-rate-cuts/,TECHNEWS,2024-10-01
-8,科技,政局衝擊日圓原因：日本經濟趨疲,這些疑慮對市場造成實質衝擊，因為過去一兩個月來，日本的經濟成長率略比美國疲弱,-1,負面,https://finance.technews.tw/2024/10/29/japan-political-situation-affects-yen/,TECHNEWS,2024-10-29
-8,科技,美消費信心半年來最旺，挺川普選民信心大增,最新調查顯示，美國 10 月消費者信心指數攀至六個月來新高，且支持共和黨的選民看好川普（Donald Trump）勝選的信心大增,2,正面,https://finance.technews.tw/2024/10/28/us-consumer-moods-brighten-among-republicans-in-particular/,TECHNEWS,2024-10-28
-9,科技,獸醫系畢業生不顧爸媽反對創業養蛙，六年衝出 3 千萬年營收、全美市占七成：熱情也能變賺錢生意,"（作者：徐采薇；全文未完，完整內容請見《
-》；來源：
-）",1,正面,https://technews.tw/2024/10/14/story-of-full-of-frogs/,TECHNEWS,2024-10-14
-9,科技,AI 將顛覆應用程式！高通 Amon：未來將有成千上萬個殺手級應用,Amon 認為，這個問題是過去式，已經不再是今年、明年出現殺手級應用程式，未來將有成千上萬個殺手級應用程式,-1,負面,https://technews.tw/2024/10/22/cristiano-amon-talk-about-ai/,TECHNEWS,2024-10-22
-9,科技,續戰 TikTok！YouTube 可上傳 3 分鐘 Shorts 短影音、推出範本工具,未來幾個月內，用戶可直接從 YouTube App 內建的 Shorts 相機挖掘 YouTube 宇宙豐富多元的內容，輕鬆重新混合喜愛的短影音、音樂等素材，甚至可從多個 YouTube 片段擷取內容來混搭,1,正面,https://technews.tw/2024/10/04/google-announcing-updates-to-youtube-shorts/,TECHNEWS,2024-10-04
-9,科技,防詐有新招，Whoscall 推「以圖搜詐」,為提供用戶更便利的防詐服務，Gogolook 旗下數位防詐 App Whoscall 今正式在雙平台（Android、iOS）釋出免費 AI 新功能「詐騙訊息檢查」，透過獨有的 AI 防詐辨識技術偵測詐騙，用戶只需要透過「截圖」，就能透過 Whoscall 初步辨識疑似詐騙的資訊,4,正面,https://infosecu.technews.tw/2024/10/24/whoscall-screenshot-scam/,TECHNEWS,2024-10-24
-9,科技,OpenAI DevDay 發表四大功能，Realtime API 助開發者建立 AI 語音對話,OpenAI 還提出模型蒸餾（Model Distillation）功能，讓開發者可以使用較大的模型（如 GPT-4o 和 o1）微調成較小的模型（如 GPT-4o mini 等）,0,中性,https://technews.tw/2024/10/02/openai-devday-2024-in-san-francisco/,TECHNEWS,2024-10-02
-10,科技,減肥是為了國家經濟！英國研究減肥藥改善慢性病影響生產力效果,（來源：shutterstock）,0,中性,https://technews.tw/2024/10/28/britain-to-study-use-of-lillys-weight-loss-drug-to-get-people-back-to-work/,TECHNEWS,2024-10-28
-10,科技,全球碳排放去年又創新高，但是今年有望反轉向下,（來源：shutterstock）,0,中性,https://technews.tw/2024/10/31/energy-related-emissions-will-peak-in-2024/,TECHNEWS,2024-10-31
-10,科技,美國診所提供接種流感疫苗者大腸癌篩檢套組，有助提升大腸癌篩檢率,（來源：shutterstock）,0,中性,https://technews.tw/2024/10/17/why-your-flu-shot-might-come-with-a-colon-cancer-test/,TECHNEWS,2024-10-17
-10,科技,Visa 財報優於預期，突顯美消費趨勢仍穩健,信用卡巨頭 Visa 繳出優於預期的財報，並稱消費趨勢穩健，可望持續至新的財年；Visa 股價盤後上漲近 2%,0,中性,https://finance.technews.tw/2024/10/30/visa-fiscal-fourth-quarter-2024-financial-results/,TECHNEWS,2024-10-30
-10,科技,Qorvo 財測遜、擬砍成本，盤後跌 16% 下探兩年低點,分析師預期Qorvo第3季營收、non-GAAP每股稀釋盈餘各為10.6億美元、1.92美元,0,中性,https://finance.technews.tw/2024/10/30/qorvo-announces-fiscal-2025-second-quarter-financial-results/,TECHNEWS,2024-10-30
-11,科技,紐時：中國駭客出手，川普家族與拜登幕僚都遭殃,報導指出，這項縝密的駭客行動已驚動美國國安人員,0,中性,https://infosecu.technews.tw/2024/10/30/trump-family-and-biden-aides-hacked/,TECHNEWS,2024-10-30
-11,科技,華郵：川普一名顧問通話遭中國駭客攔劫,美國政府也還在了解這些駭客取得多少通話內容,0,中性,https://infosecu.technews.tw/2024/10/28/chinese-hackers-said-to-have-collected-audio-of-american-calls/,TECHNEWS,2024-10-28
-11,科技,警告伊朗意圖強烈，美軍派 B-2 轟炸胡賽組織地下設施,美國國防部長奧斯汀（Lloyd Austin）在聲明中表示，美軍 B-2 轟炸機成功摧毀葉門境內五座胡賽組織地下彈藥庫，這是反制一年多來胡賽組織在伊朗支援下，多次攻擊經過紅海、曼德海峽和亞丁灣區域美國和各國商船的行動,0,中性,https://technews.tw/2024/10/18/us-destroyed-houthis-underground-targets-with-b2-spirit-bombers/,TECHNEWS,2024-10-18
-11,科技,紐時：傳比爾蓋茲祕捐 16 億，助賀錦麗競選,據知情人士說法，比爾蓋茲說這筆捐款是給「未來前進」（Future Forward），也就是支持賀錦麗的一個主要外部募款組織,1,正面,https://technews.tw/2024/10/23/bill-gates-privately-says-he-has-backed-harris-with-50-million-donation/,TECHNEWS,2024-10-23
-11,科技,美以官方皆證實，伊朗所有 S-300 已摧毀,美國和以色列政府 28 日證實，上週末以色列空軍對伊朗進行的大規模空襲報復行動，除了多座無人機生產設施，也把伊朗僅有的四套俄製 S-300 防空飛彈系統全數摧毀,0,中性,https://technews.tw/2024/10/29/israeli-and-us-officials-confirmed-that-all-iranian-s300s-were-destroyed/,TECHNEWS,2024-10-29
-12,科技,三星第三季營收創單季新高，半導體沒跟上 AI 列車獲利大減 40%,而營業利益 9.1834 兆韓圜，較 2023 年同期的 2.43 兆韓圜成長 277.37%，凈利潤較 2023年同期成長 72.84%，金額來到 10.1009 兆韓圜,4,正面,https://finance.technews.tw/2024/10/31/samsungs-third-quarter-revenue-hits-single-quarter-high/,TECHNEWS,2024-10-31
-12,科技,旺宏 9 月營收小幅月減 1.6%，前九個月營收年減 8.5%,在上一季法說會中，旺宏總經理盧志遠表示，第二季營收受到地震影響，雖然有保險理賠下，第二季仍提列約新台幣 3 億元相關損失,-2,負面,https://finance.technews.tw/2024/10/07/macronixs-revenue-in-september-fell-slightly-by-1-6-month-on-month/,TECHNEWS,2024-10-07
-12,科技,聯發科預估第四季營收季減 4% 到季增 2%，上半年現金股利 29 元,"預期第四季營收以美元對台幣匯率 1 比 31.7 基礎計算，金額將介於新台幣 1,265 億元到 1,345 億元之間，較第三季下降 4%至 成長 2%，較 2023 年同期下降 2% 到成長 4%",0,中性,https://finance.technews.tw/2024/10/30/mediatek-expects-fourth-quarter-revenue-to-fall-4-quarter-on-quarter-to-rise-2-quarter-to-quarter/,TECHNEWS,2024-10-30
-12,科技,"iPhone 16 帶動，鴻海 9 月營收 7,330 億元、Q3 創歷年新高",鴻海指出，受惠於 9 月份新品發表，帶動該公司「消費智能產品類別」強勁成長；AI 伺服器需求持續，「雲端網路產品類別」月對月表現顯著成長；受惠於消費智能產品類別零組件出貨增加，「元件及其他產品類別」呈月對月表現顯著成長,6,正面,https://finance.technews.tw/2024/10/05/foxconn-2024-q3/,TECHNEWS,2024-10-05
-12,科技,買方去化庫存優先、採購態度轉被動，Q4 記憶體價格漲幅收斂,然而近期雖有伺服器 OEM 維持拉貨動能，但智慧手機品牌仍在觀望，TrendForce 預估第四季記憶體均價漲幅大幅縮減，一般型 DRAM（conventional DRAM）漲幅為 0~5%，但受惠 HBM 比重逐漸提高，DRAM 整體平均價格上漲 8%~13%，較前季漲幅明顯收斂,2,正面,https://technews.tw/2024/10/09/2024q4-dram-price/,TECHNEWS,2024-10-09
+後，中國商務部發布了針對白蘭地的措施",0,中性,https://cn.nytimes.com/business/20241009/china-europe-brandy/zh-hant/,NYT,2024/10/9
+2,財經,報復電動車關稅？中國盯上歐盟白蘭地徵重稅,中國對歐盟白蘭地祭出反傾銷措施、加徵高額臨時關稅，頗有報復中製電動車被歐盟加徵關稅的意味；歐洲酒品業者股價聞訊重挫,0,中性,https://finance.technews.tw/2024/10/09/china-slaps-provisional-tariffs-on-eu-brandy-imports/,TECHNEWS,2024/10/9
+2,財經,中國施壓、外國抵制：在華外企陷入「新疆困境」,這使一些跨國公司陷入法律困境，因為包括美國和歐盟國家在內的越來越多的外國政府限制或禁止從新疆進口產品,-3,負面,https://cn.nytimes.com/business/20241008/china-xinjiang/zh-hant/,NYT,2024/10/8
+2,財經,謀殺、污染、投機狂潮：中國如何馴服「瘋狂的」稀土行業,但自那以後，中國執法部門的打擊行動和政府對該行業的整合使中國得以控制國內的稀土供應，並遏制過度開採,-2,負面,https://cn.nytimes.com/china/20241029/china-rare-earths-mining/zh-hant/,NYT,2024/10/29
+3,財經,Google 計劃 Gemini 併入 DeepMind，11 月生效,"Gemini 主成員有：
+研發 Gemini AI 助理的 Google DeepMind 團隊，是 2023 年將 DeepMind 與 Google Brain 合併成的新部門，由 Demis Hassabis 擔任首席執行長",0,中性,https://finance.technews.tw/2024/10/23/google-gemini-deepmind/,TECHNEWS,2024/10/23
+3,財經,AI 搜尋引擎有望顛覆傳統模式，Perplexity 尋求新一輪 5 億美元融資,開發 AI 搜尋引擎 Perplexity 的新創公司 Perplexity AI 傳出尋求新一輪 5 億美元融資，有望是一年內的第四輪融資,2,正面,https://finance.technews.tw/2024/10/21/perplexity-in-funding-talks-to-more-than-double-valuation-to-8-billion/,TECHNEWS,2024/10/21
+3,財經,軟銀投資 OpenAI 押注 AGI 前景，孫正義讚揚 o1 模型推理能力,「生成式 AI 需要的參數相當於人類大腦的突觸，正以驚人的速度成長」，他還認為深化 AI 推理能力，需要更多採用 Arm 技術的晶片,1,正面,https://finance.technews.tw/2024/10/03/masayoshi-son-at-softbank-world-2024/,TECHNEWS,2024/10/3
+3,財經,66 億美元的靈魂拷問，OpenAI 會不會變成 AI 界的巨無霸？,未來，產業可能需要建立更加開放和合作的發展模式，確保不同規模的企業都能在公平的環境中競爭和創新,4,正面,https://finance.technews.tw/2024/10/14/openai-transformation/,TECHNEWS,2024/10/14
+3,財經,微軟、輝達、軟銀砸銀彈，OpenAI 完成新一輪 66 億美元融資,OpenAI 新一輪融資如傳聞在本週完成，從微軟、輝達、軟銀等投資人共募得 66 億美元,1,正面,https://finance.technews.tw/2024/10/03/openai-has-raised-6-6-billion-in-new-funding-at-a-157-billion-post-money-valuation/,TECHNEWS,2024/10/3
+4,財經,特斯拉自駕車細節不明讓人失望，Uber、Lyft 逆勢飆,"特斯拉
+備受矚目的自駕計程車（Robotaxi），但進入市場的規劃不明，也缺乏安全數據，讓市場失望；Uber、Lyft 等共享汽車平台逆勢飆漲",-2,負面,https://finance.technews.tw/2024/10/14/uber-lyft-jump-after-teslas-toothless-taxi-fails-to-excite-investors/,TECHNEWS,2024-10-14
+4,財經,NVIDIA 黃仁勳稱馬斯克是「超人」，再次強調摩爾定律已死,NVIDIA 執行長黃仁勳最近訪談強調 NVIDIA 尚未把握的市場商機規模相當大，這種說法令人難以置信,0,中性,https://technews.tw/2024/10/14/nvidia-jensen-huang-talk-about-elon-musk-and-ai/,TECHNEWS,2024/10/14
+4,財經,輝達等 AI 股領軍勁揚，標普、台積 ADR 史高,受到投資人尋找軟著陸線索、在一系列經濟數據及財報出爐前搶進科技股的帶動，道瓊工業平均指數、標準普爾 500 指數再創歷史收盤新高,0,中性,https://finance.technews.tw/2024/10/15/nvidia-sp-500-usa-stock-market/,TECHNEWS,2024/10/15
+4,財經,股債市況熱絡，高盛業績大進補 Q3 淨利激增 45%,"根據高盛10月15日公布的最新
+，2024年第三季（截至2024年9月30日），營收年增7%至127億美元，優於市場預期的118億美元；淨利較去年同期激增45%至29.9億美元，即每股盈餘8.40美元，優於市場預期的6.89美元",0,中性,https://finance.technews.tw/2024/10/16/goldman-sachs-2024q3-financial-reporting/,TECHNEWS,2024/10/16
+4,財經,大摩 Q3 財報優、看旺併購與 IPO 行情，股價創史高,大摩股價16日勁漲6.44%，收119.51美元，寫下歷史收盤新高；今年來漲幅接近三成；,0,中性,https://finance.technews.tw/2024/10/17/morgan-stanley-profit-exceeds-forecasts-on-dealmaking-surge/,TECHNEWS,2024/10/17
+5,財經,接班歷練，吳東亮么子吳昕豪出任台新人壽副董事長,吳昕豪為台新金暨台新銀行董事長吳東亮么子，目前擔任台新金副總經理及台新銀行董事,0,中性,https://finance.technews.tw/2024/10/23/succeed-taishin-life/,TECHNEWS,2024/10/23
+5,財經,加強半導體業支持，日本九州地區考慮規畫「科學園區」,台灣經濟部長郭智輝 9 月訪問日本熊本縣，提出在九州設立服務公司，以支援台灣企業進軍日本,1,正面,https://finance.technews.tw/2024/10/15/japan-kyushu-taiwan-chip-megapark/,TECHNEWS,2024/10/15
+5,財經,TGI FRIDAYS 美國總部傳破產，台灣代理商延後興櫃,開展餐飲集團指出，台灣TGI FRIDAYS品牌代理與餐廳營運與其他國家相同，均為財務獨立且自主經營，TGI FRIDAYS品牌來台灣已超過30年，累積穩定顧客與市場口碑，在台灣的營業狀況將不會受美國總部影響,2,正面,https://finance.technews.tw/2024/10/23/tgi-fridays-u-s-headquarters-bankruptcy-rumor/,TECHNEWS,2024/10/23
+5,財經,豐田、Denso 傳擬對晶圓代工廠 Rapidus 追加出資,日本官民合作設立的晶圓代工廠 Rapidus 目標在 2027 年量產 2 奈米（nm）晶片，而傳出豐田汽車（Toyota）、汽車零組件大廠 Denso 考慮對 Rapidus 進行追加出資，如此一來，Rapidus 八家股東都將對 Rapidus 提供資金援助,3,正面,https://finance.technews.tw/2024/10/21/toyota-denso-rapidus/,TECHNEWS,2024/10/21
+5,財經,HIVEX 攜三大支付前進日本滿週年！下一站與 ZeroPay、ICB 進軍韓國,吳陵宣布，HIVEX 看好台灣旅客在韓國的消費潛力，預計將攜手 ZeroPay 和 ICB 正式進軍韓國，開通上百萬家韓國商店，為哈韓族及商務旅客提供更便捷且安全的跨境支付服務，為台灣旅客在韓國的消費帶來更加輕鬆、安全的支付體驗,3,正面,https://finance.technews.tw/2024/10/15/zeropay/,TECHNEWS,2024/10/15
+6,財經,三星半導體獲利大減，陸行之：不要惹到台積電，會死得很難看,"三星半導體事業 2024 年第三季營業利益較第二季大減 40%，不如市場預期，前外資知名分析師陸行之表示，沒見過三星營業利潤率同時被 SK 海力士及美光超車，結論就是不要惹到 T 同學 (
+)，否則死得很難看",-1,負面,https://finance.technews.tw/2024/10/31/the-reason-for-samsung-semiconductors-sharp-decline-in-profits-lies-in-tsmc/,TECHNEWS,2024/10/31
+6,財經,台積電第三季 EPS 12.54 元創新高，毛利率、營益率躍財測高標,台積電表示，與 2023 年同期相較，第三季營收增加 39.0%，稅後純益與每股盈餘皆增加 54.2%,2,正面,https://finance.technews.tw/2024/10/17/tsmcs-third-quarter-revenue-hits-record-high/,TECHNEWS,2024/10/17
+6,財經,"外資掀台積電目標價調升潮，最高喊 1,600 元","其中，Aletheia給予台積電「優於大盤」的評等，將目標價由1,400元調升至1,600元，為外資圈中最樂觀，花旗將台積電目標價調升到1,540元，則為第二高；而大摩、野村、瑞銀、高盛等其餘外資，對台積電目標價則多落在1,200-1,400元間",1,正面,https://finance.technews.tw/2024/10/21/foreign-investment-tsmc-target-price/,TECHNEWS,2024/10/21
+6,財經,南亞科 9 月營收月減 7.76%，10 月 9 日召開第三季法說會公布財報,當 AI 帶動 HBM / DDR5 需求強勁情況下，傳統 DRAM 產品的供應將受到影響而減少，但因為因消費者需求的長期復甦和競爭，將導致獲利動能減弱的南亞科,-3,負面,https://finance.technews.tw/2024/10/04/nanyas-september-revenue-fell-7-76-month-on-month/,TECHNEWS,2024/10/4
+6,財經,三星只能感嘆，SK 海力士受惠 AI 記憶體第三季創營收新高紀錄,SK 海力士今後持續憑 AI 記憶體全球領先技術實力，持續實施以高附加值產品為主擴大銷售並確保獲利的戰略,0,中性,https://finance.technews.tw/2024/10/24/sk-hynix-benefits-from-ai-memory-and-hits-record-revenue-in-third-quarter/,TECHNEWS,2024/10/24
+7,財經,改名 X 也不能避責，澳洲法院下令繳交 Twitter 違規罰款,澳洲法院法官 Justice Wheelahan 駁回 Twitter 不再存在說法，裁定 X 繼承舊公司 Twitter 的法律責任,0,中性,https://finance.technews.tw/2024/10/10/twitter-australian-courts/,TECHNEWS,2024/10/10
+7,財經,碧桂園森林城市：中國房市崩盤與一座馬來西亞空城,"Amrita Chandradas for The New York Times
+森林城市一座公寓樓前掛鎖的店面",0,中性,https://cn.nytimes.com/business/20241023/forest-city-country-garden/zh-hant/,NYT,2024/10/23
+7,財經,香港旅遊業為何難以恢復活力,英國航空公司目前往返香港的航班座位數比2019年減少了42%，並正在把倫敦與香港之間的航班數減半,-1,負面,https://cn.nytimes.com/travel/20241018/hong-kong-tourism-pandemic/zh-hant/,NYT,2024/10/18
+7,財經,耶倫呼籲加快全球債務減免，批評中國放貸「不透明」,在採訪中，耶倫拒絕討論大選政治，但她警告，從世界銀行和國際貨幣基金組織等機構中撤退將削弱美國的全球影響力，同時使中國獲得更大影響力,-3,負面,https://cn.nytimes.com/usa/20241023/janet-yellen-china-lending/zh-hant/,NYT,2024/10/23
+7,財經,富士康四名台灣員工被鄭州警方拘留,台灣表示，中國當局拘留了四名富士康員工,-1,負面,https://cn.nytimes.com/business/20241011/foxconn-zhengzhou-china-detentions/zh-hant/,NYT,2024/10/11
+8,財經,英特爾裁員本週進入高峰期,選擇提前退休的員工 9 月底離開公司後，英特爾就開始非自願裁員，目標是年底裁員 1.5 萬名員工,0,中性,https://finance.technews.tw/2024/10/14/intels-layoff-plan-begins-to-peak-this-week/,TECHNEWS,2024/10/14
+8,財經,傳英特爾與三星結盟對抗台積電，業界：1＋1 恐難＞2,劉佩真說，英特爾和三星製程技術皆落後台積電，雙方合作仍難以超越台積電，合作效益應該有限，對台積電威脅不大,0,中性,https://finance.technews.tw/2024/10/23/intel-plus-samsung-vs-tsmc/,TECHNEWS,2024/10/23
+8,財經,美國政府承諾 85 億美元分文未付！英特爾對晶片法案支付進度很沮喪,"美國商務部因應《晶片法案》，向台積電、英特爾提供數十億美元的補貼與貸款，以增強美國晶片產業的發展，並承諾提供英特爾 85 億美元的資金，用來建造新的晶片製造工廠，並給予 110 億美元的貸款，以及高達 1,000 億美元的 25% 投資稅收抵免，但至今分文未付",1,正面,https://finance.technews.tw/2024/10/26/urgency/,TECHNEWS,2024/10/26
+9,財經,金錢與幸福感的真相，研究：有錢人要更多錢才能買到相同幸福感,多少錢才幸福，這十年有許多研究發現，最初認為財富到了一個水平，幸福感就不會再增加，後來又有研究推翻，認為財富帶來的幸福感，沒有上限，愈多錢愈快樂,2,正面,https://finance.technews.tw/2024/10/16/the-truth-of-money-and-happiness/,TECHNEWS,2024/10/16
+10,財經,憂管理層因「背靠大樹」而怠惰！松下集團 CEO 大刀改革：沒成果就等著被開除,有分析師指出，松下的高層太專注在收購價格，反而忽視了企業未來的成長潛力，這種決策慢半拍的文化嚴重影響公司的發展速度，也增加投資成本,2,正面,https://finance.technews.tw/2024/10/13/panasonic-to-ramp-up-ev-battery-production-in-japan/,TECHNEWS,2024/10/13
+10,財經,實支實付新制上路，金管會釋疑理賠流程注意兩種證明,實支實付醫療險今年 7 月起回歸損害填補原則，金管會 1 日表示，保戶同時投保不同性質實支實付險或同時投保不僅一張同性質實支實付險，首家受理理賠的保險公司會分別開立醫療費用收據正本留存證明或理賠差額證明，供保戶向其餘保險公司申請理賠,-1,負面,https://finance.technews.tw/2024/10/02/newly-made-actual-payment/,TECHNEWS,2024/10/2
+10,財經,對金控合併案的提醒：保護股東權益才是公司治理基礎,然而，若公司在董事會上即無法就股價合理性有合理的說明，則可能無法讓所有董事同意,1,正面,https://finance.technews.tw/2024/10/01/protecting-the-rights-and-interests-of-shareholders-is-the-basis-of-corporate-governance/,TECHNEWS,2024/10/1
+10,財經,第七波信用管制錯殺無辜？央行擬兩大補救措施,此外，換屋族問題也是各界關注，央行目前是比照現行換屋族簽切結書，保證一年內一定會把舊宅賣掉；而對於房仲公會日前發出九大訴求請命，爭取換屋的期限能夠從一年延長到兩年，央行目前的態度傾向不放行，最主要是因為央行認為給予換屋族一年賣房的時間已相當足夠，兩年「叫投資不叫換屋,1,正面,https://finance.technews.tw/2024/10/08/the-seventh-wave-of-credit-controls/,TECHNEWS,2024/10/8
+10,財經,老屋都更改建潮又來了！都更容積放寬，立院初審通過,但未來修法後，只要是實施容積管制前，「已掛件申請建照」的老屋，在都更重建時，也能夠擇優以原建築容積計算容獎，以提高老屋參與都更的誘因；另外，實施者已擬訂都市更新事業計畫送地方政府審議的案件，同樣也在適用範圍,1,正面,https://finance.technews.tw/2024/10/07/old-houses-are-being-renovated-and-rebuilt/,TECHNEWS,2024/10/7
+11,財經,"碳費開徵動起來！臻鼎採用東元「減碳包」再拚年減 5,000 噸","東元董事長利明献表示，東元的節能改造方案和完善的維保服務體系，將為戰略合作夥伴臻鼎科技的全球廠區，實現綠色轉型，推動智慧能源管理進程，並符合東元三年發展策略中的節能減碳項目，雙方將以每年減碳 5,000 噸以上為目標，持續優化升級",6,正面,https://finance.technews.tw/2024/10/24/carbon-reduction-package/,TECHNEWS,2024/10/24
+11,財經,中華電攜手全球 IOWN 夥伴推動次世代資通訊與運算技術,信於 10 月 8 日至 11 日參加在台北舉行的「IOWN Global Forum（創新全光和無線網路全球論壇）第七屆大會」，展示全光網路與跨雲傳送技術的最新研發成果，共同推動次世代資通訊網路與運算基礎發展,4,正面,https://finance.technews.tw/2024/10/10/cht-iown-global-forum/,TECHNEWS,2024/10/10
+11,財經,台積電攜手 EDA 大廠 Ansys，支援 A16 先進製程發展,為了滿足這種需求，台積電正在擴大與 3D-IC 的 Ansys Redhawk-SC Electrothermal 熱和多重物理簽核平台的合作，整合結構應力分析解決方案，以更好地支援共同客戶的需求,4,正面,https://finance.technews.tw/2024/10/15/tsmc-cooperates-with-eda-manufacturer-ansys/,TECHNEWS,2024/10/15
+11,財經,可成策略轉型再下一城！子公司可力生醫取得 CDMO 營業資產,可成科技指出，過去憑藉其材料科學、精密製造加工等核心優勢，已在消費電子領域獲得諸多國際品牌青睞，2020 年起展開策略轉型，看好智慧醫療發展，積極切入高階醫材領域，這次交易完成後，可成將取得植入式神經調節裝置研發資源、技術製程、專利認證，以及既有客戶等資產,7,正面,https://finance.technews.tw/2024/10/26/organization/,TECHNEWS,2024/10/26
+11,財經,鴻海再添二座世界級燈塔工廠,"世界經濟論壇（World Economic Forum，WEF）日前公布最新一批燈塔工廠名單，
+旗下工業富聯再添 2 座世界級燈塔工廠，其中位於越南北江省的廠區以大量運用 AI 技術，提高生產效率，獲選成為越南國家首座燈塔工廠；而深圳觀瀾廠則以永續發展表現，拿下鴻海旗下第一座可持續燈塔工廠的稱號，鴻海科技集團燈塔工廠累計總數達到 8 座",4,正面,https://finance.technews.tw/2024/10/13/foxconn-wef/,TECHNEWS,2024/10/13
+12,財經,星戰大作慘賠、刺客教條延期，為什麼黃金 IP 也無法挽救 Ubisoft？,有一款年年可賣千萬套的黃金 IP，即便不像任天堂款款爆炸，但育碧（Ubisoft）應該也是地球上最賺錢的遊戲商之一，可能沒人想到 Ubisoft 現在股價會跌到十年來新低點,-2,負面,https://finance.technews.tw/2024/10/04/why-even-the-golden-ips-cant-save-ubisofts-current-crisis/,TECHNEWS,2024/10/4
+12,財經,遊戲點數消費延後生效惹議，公會兩機制替代年底上路,"為強化打詐，銀行公會原擬將單筆達新台幣 3,000元以上的遊戲點數、錢包儲值及電子禮券刷卡消費延後 24 小時生效，但引起反彈，經過數月討論，此政策確定止步，將改由發卡行強化遊戲點數交易即時風控，並與遊戲業者建立聯防機制替代",0,中性,https://finance.technews.tw/2024/10/21/game-points-two-mechanisms/,TECHNEWS,2024/10/21
+12,財經,Meta 小規模裁員，WhatsApp、Instagram 等為受災區,"外媒 The Verge 
+消息人士，Meta 又有幾個部門裁員，WhatsApp、Instagram 和 Reality Labs 部門據說是主角",0,中性,https://finance.technews.tw/2024/10/19/meta-is-laying-off-employees-at-whatsapp-instagram/,TECHNEWS,2024/10/19
+12,財經,又有一家踏入混合實境領域，vivo 預告 MR 裝置 2025 年亮相,針對 vivo 影像技術未來三大發展方向，李卓進一步解釋，隨著不斷地影像發展，做為行動影像的生產端，保護使用者影像資料、防止影像資訊濫用，以及避免不實資訊的傳播，該公司將會不斷強化影像安全系統，透過創新的照片與影片的真實性標記，以及安全應用服務，建立透明、可信的內容創作,5,正面,https://finance.technews.tw/2024/10/15/vivo-mr/,TECHNEWS,2024/10/15
+0,國際,BBC專訪神田真人：斥資1700億美元提振日元的幕後推手,為了控制日元的跌勢，神田先生動用了約25萬億日元（1730億美元）來支撐貨幣，這是日本近四分之一個世紀以來首次進行此類干預,1,正面,https://www.bbc.com/zhongwen/trad/business-69389927,BBC,2024/10/4
+0,國際,國家有辦法讓人們多生孩子嗎,去年，日本的生育率為1.2,0,中性,https://cn.nytimes.com/world/20241017/birth-rate-fertility-policy-japan/zh-hant/,NYT,2024/10/17
+0,國際,中國研究生大躍進，「本研倒掛」瞄向解決就業還是高等教育升級,"
+學校需要更多研究生
+丁智善還提出，由於中國人口結構性問題，高校的本科生招生人數是「增無可增」",-1,負面,https://www.bbc.com/zhongwen/trad/chinese-news-69417409,BBC,2024/10/16
+2,國際,中國陰影籠罩歐洲，西班牙試圖擴大對華經濟聯繫,「中國是（歐盟和西班牙的）一個重要經濟夥伴，」西班牙經濟大臣卡洛斯·奎爾波在馬德里的辦公室表示,1,正面,https://cn.nytimes.com/world/20241031/spain-china-investment/zh-hant/,NYT,2024/10/31
+2,國際,歐盟正式對中國產電動汽車加徵關稅,隨著歐盟對中國生產的電動汽車徵收的關稅於週三生效，歐洲消費者購買這些汽車時可能會面臨更高的價格,1,正面,https://cn.nytimes.com/business/20241031/european-union-china-electric-vehicle-tariffs/zh-hant/,NYT,2024/10/31
+2,國際,電動車關稅引發中國報復 德國和法國領銜展示並不團結的歐盟,政治學者杜本表示，德國這次投下反對票，是基於商業考量和汽車產業的游說壓力，但在政治和戰略上，柏林還是與法國等其它主要歐盟國家立場一致，認為從中期來看，有必要在經濟上撤離中國，甚至採取更強硬的政治立場來對抗北京的擴張主義,1,正面,https://www.bbc.com/zhongwen/trad/business-69406723,BBC,2024/10/14
+2,國際,特朗普對進口產品加徵關稅，美國消費者到底受益還是受傷——事實核查,而對這些進口商品徵收的關稅在該年度帶來800億美元收入，約佔美國總稅收的2%,-1,負面,https://www.bbc.com/zhongwen/trad/business-69414958,BBC,2024/10/17
+6,國際,台積電先進AI晶片流入華為 凸顯對華晶片禁運的監管困境,美國一名官員向路透社透露，科技公司TechInsights近日拆解了華為的產品，發現其中使用了台積電七奈米的晶片，恐違反了美國的出口管制規定,-1,負面,https://www.bbc.com/zhongwen/trad/business-69440872,BBC,2024/10/25
+7,國際,為何格魯吉亞人投票支持親俄政黨抛棄加入歐盟的夢想？,中央選舉委員會公佈的官方初步結果顯示，執政的格魯吉亞夢想黨（Georgian Dream party）獲得絕對多數，但反對黨聲稱選舉被竊取，並呼籲其支持者週一晚在首都第比利斯參加抗議活動,0,中性,https://www.bbc.com/zhongwen/articles/cdxyzkq3xkdo/trad,BBC,2024/10/29
+7,國際,起底紐約市長前高級顧問鄭祺蓉：與中國關係密切,市政府記錄顯示，為了推動這個項目，亞當斯和鄭祺蓉以及紐約市其他行政區的代表們一起去了中國,0,中性,https://cn.nytimes.com/usa/20241016/adams-greco-china-influence-investigation/zh-hant/,NYT,2024/10/16
+7,國際,習近平與莫迪會晤，中印關係有望緩和,印度也聲稱是全球南方的領導者，但與中國不同的是，印度仍然堅定地保持不結盟立場，不希望金磚國家發展成一個明確的反西方組織,4,正面,https://cn.nytimes.com/world/20241024/modi-xi-putin-brics/zh-hant/,NYT,2024/10/24
+7,國際,中印關係緩和：是什麼促成金磚峰會莫迪與習近平會晤,"」
+印度陸軍參謀長表示，兩國目前正努力恢復信任",2,正面,https://www.bbc.com/zhongwen/trad/chinese-news-69440666,BBC,2024/10/25
+7,國際,「寶力」「青寶」高調抵達華盛頓，熊貓外交「重生」,"去年11月，三隻大熊貓（兩隻成年大熊貓和他們
+的幼崽）回到中國四川省的一個自然保護區，這是動物園50多年來首次沒有了大熊貓的身影",0,中性,https://cn.nytimes.com/usa/20241016/pandas-china-national-zoo/zh-hant/,NYT,2024/10/16
+8,國際,以色列有哪些飛彈防禦系統：「鐵穹」、「大衛投石索」和「箭」式,"以色列有哪些飛彈防禦系統：「鐵穹」、「大衛投石索」和「箭」式
+2024年10月3日
+近月以色列動用了所有飛彈防禦系統，來應對加沙哈馬斯、黎巴嫩真主黨和也門胡塞武裝的飛彈襲擊",-2,負面,https://www.bbc.com/zhongwen/trad/world-69387422,BBC,2024/10/3
+8,國際,神舟十九號發射升空：中國最年輕航天員成功進入太空,"神舟十九號發射升空：中國最年輕航天員成功進入太空
+2024年10月30日
+一艘載有三名航天員乘組的中國載人飛船在經過六個多小時的旅程後已實現對接，飛船上的航天員包括中國第一位女性太空工程師",2,正面,https://www.bbc.com/zhongwen/articles/cjr48857qe8o/trad,BBC,2024/10/30
+9,國際,減肥藥將如何改變我們與食物的關係,儘管有初步跡象顯示英國兒童肥胖數字可能開始下降，但這些措施並未有效地改變整個國家的飲食習慣，扭轉肥胖趨勢,-1,負面,https://www.bbc.com/zhongwen/trad/science-69431760,BBC,2024/10/22
+9,國際,颶風米爾頓襲美國：今年風暴為何如此猛烈？,氣候變化對颶風有什麼影響,0,中性,https://www.bbc.com/zhongwen/trad/science-69403624,BBC,2024/10/9
+11,國際,華為「純血」鴻蒙面世 脫鉤安卓對標蘋果如何謀求三分天下,有分析稱，以軟體開發市場來說，如果都只在原有的安卓、蘋果iOS系統上進行研發，即便軟體技術研發屢次有所突破，也很難完善中國自主可控的行動作業系統,3,正面,https://www.bbc.com/zhongwen/trad/business-69438203,BBC,2024/10/24
+0,科技,黃仁勳加持！越南投資熱潮席捲全球，經濟引擎全面啟動,根據最新出爐的經濟數據，第三季 GDP 年增 7.4%、創下兩年來最強勁的經濟成長，越南政府減稅加薪政策下，不僅刺激消費助力經濟發展，貿易順差達 207.9 億美元，11 月起更將進一步鬆綁資本市場投資法規，整體而言， 越南第四季經濟成長可望達 7.6% 至 8%,2,正面,https://finance.technews.tw/2024/10/12/vietnam-investment-regulations-are-loosened/,TECHNEWS,2024/10/12
+0,科技,債券換國債、股票變現金，中國央行如何用國債影響股市？,流動性互換工具的核心在於提升金融機構手中資產的流動性,1,正面,https://finance.technews.tw/2024/10/16/how-does-pboc-use-government-bonds-to-affect-the-stock-market/,TECHNEWS,2024/10/16
+0,科技,低收入者支出晴雨表，麥當勞銷售額連兩季衰退,但去年形勢開始轉變，食品通膨最終仍然改變消費習慣，且趨勢已定，麥當勞全球銷售額連續第二季下降，美國之外的市場下降最多,-1,負面,https://finance.technews.tw/2024/10/30/low-income-consumer-give-up-madonald/,TECHNEWS,2024/10/30
+0,科技,政局衝擊日圓原因：日本經濟趨疲,大數據金融機構 DeepMacro 共同創辦人兼首席經濟學家 Jeffrey Young 發表最新研究報告指出，日本政局不穩之所以會衝擊日圓，是因為日本的經濟成長略比過往疲弱,0,中性,https://finance.technews.tw/2024/10/29/japan-political-situation-affects-yen/,TECHNEWS,2024/10/29
+0,科技,美消費信心半年來最旺，挺川普選民信心大增,最新調查顯示，美國 10 月消費者信心指數攀至六個月來新高，且支持共和黨的選民看好川普（Donald Trump）勝選的信心大增,2,正面,https://finance.technews.tw/2024/10/28/us-consumer-moods-brighten-among-republicans-in-particular/,TECHNEWS,2024/10/28
+1,科技,蘋果 iPhone 18 可能獲台積電 2 奈米製程加持，12GB RAM 將成新標配,為了進一步提升iPhone 18系列的性能，蘋果將採用全新的WMCM（多晶片模組）封裝技術,1,正面,https://technews.tw/2024/10/16/iphone-18-tsmc-2nm/,TECHNEWS,2024/10/16
+1,科技,高通發表最新 Snapdragon 8 Elite，自研 Oryon CPU 首搭行動平台,高通今日在夏威夷 Snapdragon 高峰會發表最新 Snapdragon 8 Elite 行動平台，首度行動平台搭載最新客製化 Oryon CPU，號稱功能最強大、全球速度最快的行動系統單晶片,0,中性,https://technews.tw/2024/10/22/qualcomm-snapdragon-8-elite/,TECHNEWS,2024/10/22
+1,科技,將 AI 功能帶入桌上型電腦，英特爾發表全新 Core Ultra 200S 系列處理器,"英特爾強調，全新 Intel Core Ultra 200S 系列處理器具備高達 36TOPS 平台效能，是英特爾首款且最佳的桌上型 AI PC 處理器，還具備以下效能：
+1. 
+：Intel Core Ultra 200S 系列處理器在 AI 及內容創作方面提供優異效能，並打造身臨其境的遊戲體驗",4,正面,https://technews.tw/2024/10/11/intel-releases-new-intel-core-ultra-200s-series-processors/,TECHNEWS,2024/10/11
+1,科技,蘋果 A18 非「閹割版」A18 Pro：兩晶片架構設計大不同,這次 Chipwise 裸晶照顯示，儘管 A18 和 A18 Pro 整體布局相似，但 A18 Pro 有更多電晶體，且亮區面積更大，證實蘋果沒有分級晶片，而是為不同型號 iPhone 16 各自設計獨立晶片,0,中性,https://technews.tw/2024/10/03/apples-a18-chip-is-unique-design-not-a-binned-a18-pro/,TECHNEWS,2024/10/3
+1,科技,誰是今年晶片霸主？Snapdragon 8 Elite、A18 Pro 跑分對決難分高下,然而，綜合外媒 WCCFtech 報導，在相同基準測試顯示，高通 Snapdragon 8 Elite 在電源效率和單核心結果仍落後蘋果 A18 Pro,1,正面,https://technews.tw/2024/10/23/a18-pro-snapdragon-8-elite-performance-per-watt/,TECHNEWS,2024/10/23
+2,科技,盼降低依賴中國與阻止洗產地，墨西哥要美企助釐清可本土生產零件,墨西哥左翼總統薛恩鮑姆（Claudia Sheinbaum）剛就任即面臨經濟議題挑戰，《美墨加協定》（U.S.-Mexico-Canada Agreement）將在 2025 下半年展開磋商，薛恩鮑姆領導的新政府希望專注支持國內供應鏈，擬要求在墨西哥營運的跨國製造業和科技巨擘協助，找出哪些中國進口的產品和零件可在墨西哥生產，降低依賴中國,-1,負面,https://technews.tw/2024/10/10/us-mexico-canada-agreement/,TECHNEWS,2024/10/10
+2,科技,美東碼頭罷工，歐洲車商恐受傷最重,專家表示，歐洲汽車製造商最可能受美國東岸和墨西哥灣沿岸港口碼頭工人罷工所累，因重度依賴這些地點，長時間罷工恐導致整個汽車製造業「耗弱」,-2,負面,https://technews.tw/2024/10/02/european-car-dealers-may-be-most-seriously-injured/,TECHNEWS,2024/10/2
+2,科技,福斯關廠、賓士股價單日暴跌 11.2%！德國汽車產業出了什麼問題？,不只福斯，多家德國汽車也面臨全球市場銷量下滑危機，中國電動車以低價攻占汽車市場，危及德國汽車產業龍頭地位,-1,負面,https://technews.tw/2024/10/05/whats-wrong-with-the-german-auto-industry/,TECHNEWS,2024/10/5
+2,科技,中國收緊稀土開採出口限制，外國面臨供應挑戰,報導提到，中國最近還加大對稀土開採和生產企業的所有權控制，在中國的外資稀土冶煉廠將被收購,2,正面,https://technews.tw/2024/10/29/rare-earth-china-export-controls/,TECHNEWS,2024/10/29
+2,科技,歐盟正式加徵中國電動車反補貼稅五年，強調持續協商,對中國政府抱怨歐盟不該同時也與個別企業協商，執委會官員表示在WTO規則下，歐盟與中國商會的整體協商，並不排除個別中國企業同時另與歐盟商議自己的解決方案,-1,負面,https://technews.tw/2024/10/30/european-union-countervailing-duty-china-electric-car/,TECHNEWS,2024/10/30
+3,科技,NVIDIA 黃仁勳稱馬斯克是「超人」，再次強調摩爾定律已死,NVIDIA 執行長黃仁勳最近訪談強調 NVIDIA 尚未把握的市場商機規模相當大，這種說法令人難以置信,0,中性,https://technews.tw/2024/10/14/nvidia-jensen-huang-talk-about-elon-musk-and-ai/,TECHNEWS,2024/10/14
+3,科技,OpenAI開發者大會 推4功能驅動AI更便宜、普及,此外，在去年的開發者大會上，OpenAI仿效大型科技公司的策略，向消費者宣布新模型和產品，今年改變作風，主要向開發者社群宣布4項功能,0,中性,https://www.cna.com.tw/news/ait/202410020018.aspx,CNA,2024/10/2
+3,科技,諾貝爾獎得主辛頓指控 Sam Altman，將 OpenAI 利潤置於安全之上,「AI 教父」辛頓（Geoffrey Hinton）近日獲得諾貝爾物理獎殊榮，他對 AI 一直持謹慎態度，最近也提到 OpenAI 執行長 Sam Altman 越來越商業化，卻未考慮 AI 的安全性,2,正面,https://technews.tw/2024/10/15/geoffrey-hinton-talk-about-openai-and-ceo-sam-altman/,TECHNEWS,2024/10/15
+3,科技,微軟宣布 11 月推出人工智慧自主代理功能,Spataro指出，Copilot是AI助理，Copilot Studio能夠讓使用者輕鬆地建立、管理代理並將其連接到Copilot,1,正面,https://technews.tw/2024/10/22/microsoft-will-launch-copilot-studio-autonomous-agent-function/,TECHNEWS,2024/10/22
+3,科技,微軟推AI自主代理程式 強化商業應用,放眼加速人工智慧（AI）的商業應用，美國科技巨頭微軟（Microsoft）今天宣布，將推出具自主代理功能的AI Agent（人工智慧代理），以強化AI技術,1,正面,https://www.cna.com.tw/news/ait/202410220080.aspx,CNA,2024/10/22
+4,科技,特斯拉明年推自駕計程車服務 須克服監管與技術挑戰,監管州內自動駕駛車輛測試與部署的加州車輛管理局（California Department of Motor Vehicles）告訴路透社，特斯拉上次使用該局核發的自動駕駛車測試許可證是在2019年，使用這項許可的每輛自動駕駛車都需要搭配一名人類駕駛員,4,正面,https://www.cna.com.tw/news/ait/202410240351.aspx,CNA,2024-10-24
+4,科技,黑鷹無人化，美軍與洛克希德馬丁簽署 600 萬美元合約繼續測試,DAPRA 和塞考斯基在 2022 年到 2023 年間陸續進行了無人黑鷹的基本飛行、載貨以及救援任務等相關測試，而賽考斯基在昨日公布，已再度獲得 DAPRA 一紙六百萬美元合約，將進一步測試 Matrix 系統在黑鷹直升機上的自動駕駛能力,3,正面,https://technews.tw/2024/10/16/sikorsky-gets-6m-contract-to-continue-the-unmanned-blackhawk-tests/,TECHNEWS,2024-10-16
+4,科技,馬斯克預言：世界到 2040 年將有 100 億台人形機器人,美國電動車大廠特斯拉（Tesla）執行長馬斯克（Elon Musk）29 日在沙烏地阿拉伯一場活動上預言，這世界到 2040 年至少會有 100 億台人形機器人,0,中性,https://technews.tw/2024/10/30/elon-musk-10-billion-humanoid-robots-by-2040-at-20k-25k-each/,TECHNEWS,2024-10-30
+4,科技,SpaceX 獵鷹九號火箭，三個月內第三次因異常停飛,SpaceX 獵鷹九號火箭 Crew-9 任務將太空人送到國際太空站後，由於第二級未順利降落在預期海洋區域，三個月來第三次遭 FAA 勒令停飛,1,正面,https://technews.tw/2024/10/01/crew-9-mission-spacex-falcon9-rocket/,TECHNEWS,2024-10-01
+5,科技,台積電熊本廠帶動九州半導體投資逾 5 兆日圓，成為日本矽島,日本九州除了台積電熊本廠，還有許多半導體工廠計畫都在進行,1,正面,https://finance.technews.tw/2024/10/29/tsmcs-kumamoto-plant-drives-kyushu-semiconductor-investment-to-exceed-5-trillion-yen/,TECHNEWS,2024/10/29
+5,科技,Rapidus：若 2 奈米量產順利，第二座廠生產 1.4 奈米,日本經濟產業大臣24日視察Rapidus興建中的工廠，表示考慮追加援助Rapidus，Rapidus社長也指出，若2奈米量產順利，第二座廠量產1.4奈米產品,1,正面,https://finance.technews.tw/2024/10/25/rapidus-2nm-inspection/,TECHNEWS,2024/10/25
+5,科技,中國武漢新芯啟動 IPO 程序，為母集團提供美中科技戰下資金來源,根據武漢新芯 2024 年 5 月中旬揭露的 IPO 訊息指出，武漢新芯目前控股股東為長江存儲，持股比例為 68.1937%，法定代表人為楊士寧,-2,負面,https://technews.tw/2024/10/02/chinas-wuhan-xinxin-launches-ipo-process/,TECHNEWS,2024/10/2
+5,科技,台人旅日消費顯現商機！HIVEX 助攻電支業者玉山 Wallet、街口與全支付跨境消費,"台灣三家業者
+、街口與
+，相繼與日本最大行動支付 PayPay 合作，成為日本跨境消費的新選擇，其中採用的跨境支付平台「HIVEX」，究竟是什麼來頭",2,正面,https://technews.tw/2024/10/20/hivex-paypay/,TECHNEWS,2024/10/20
+5,科技,Rapidus 即將接收 EUV，對北海道經濟效益開始顯現,日本經濟新聞報導，距日本新創晶片商 Rapidus 北海道廠先進製程試產線啟用不到六個月，大規模量產還有障礙，但對當地的經濟效益已顯現,-2,負面,https://finance.technews.tw/2024/10/15/rapidus-will-soon-start-receiving-euv/,TECHNEWS,2024/10/15
+6,科技,聯發科預估第四季營收季減 4% 到季增 2%，上半年現金股利 29 元,聯發科指出，提高 2024 年旗艦產品營收貢獻預期的原因在於天璣 9400 已獲包括 vivo、OPPO 和 Redmi 的採用，且與 2023 年同期的天璣 9300 相比，2024 年有更多的機型導入聯發科技天璣 9400 旗艦晶片,1,正面,https://finance.technews.tw/2024/10/30/mediatek-expects-fourth-quarter-revenue-to-fall-4-quarter-on-quarter-to-rise-2-quarter-to-quarter/,TECHNEWS,2024/10/30
+6,科技,群創 Q3 正獲利 EPS 0.05 元，Q4 電視面板價格可望持穩,回顧第三季，群創在電視面板營收較第二季的相對高位回落，非大宗消費品（Non-commodity）和非顯示器領域群營收均有成長，綜合第三季營收較第二季季減 2.4%,1,正面,https://finance.technews.tw/2024/10/29/innolux-2024-q3-earnings/,TECHNEWS,2024/10/29
+6,科技,國巨前三季大賺逾三個股本，第四季業績估小幅季減,國巨前三季毛利率34.7%，年增1.6個百分點，前三季營業利益180.82億元，營業利益率19.7%，年增0.6個百分點，前三季非營業項目收入25.95億元，外幣兌換利得4.88億元，利息收入16.89億元,2,正面,https://finance.technews.tw/2024/10/29/yageo-fr-2024q3/,TECHNEWS,2024/10/29
+6,科技,聯發科第三季 EPS 達 15.94 元創第三高，前三季 EPS 為 51.98 元,"累計，聯發科前三季營收 3,925.43 億元，較 2023 年同期增加 29.18%，毛利率 50.03%，較 2023 年同期增加 2.9 個百分點，稅後純益 825.97 億元，較 2023 年同期增加 60.96%，淨利率 21.04%，較 2023 年同期增加 4.15 個百分點，每股 EPS 來到 51.98 元",4,正面,https://finance.technews.tw/2024/10/30/mediateks-third-quarter-eps-reached-15-94-yuan-the-third-highest/,TECHNEWS,2024/10/30
+6,科技,旺宏 2024 年前三季每股 EPS 虧損 0.9 元，預計 2025 年營運恢復,旺宏董事長吳敏求指出，雖然 ROM 在第三季表現較第二季來得好,0,中性,https://finance.technews.tw/2024/10/29/macronixs-eps-loss-per-share-in-the-first-three-quarters-of-2024-will-be-0-9-yuan/,TECHNEWS,2024/10/29
+7,科技,紐時：中國駭客出手，川普家族與拜登幕僚都遭殃,《紐約時報》29 日引述知情人士說法指出，美國前總統川普家族成員和現任總統拜登政府官員，都淪為一個可潛入通訊業者系統的中國附屬駭客團體下手目標,-2,負面,https://infosecu.technews.tw/2024/10/30/trump-family-and-biden-aides-hacked/,TECHNEWS,2024/10/30
+7,科技,華郵：川普一名顧問通話遭中國駭客攔劫,美國政府也還在了解這些駭客取得多少通話內容,0,中性,https://infosecu.technews.tw/2024/10/28/chinese-hackers-said-to-have-collected-audio-of-american-calls/,TECHNEWS,2024/10/28
+7,科技,紐時：傳比爾蓋茲祕捐 16 億，助賀錦麗競選,據知情人士說法，比爾蓋茲說這筆捐款是給「未來前進」（Future Forward），也就是支持賀錦麗的一個主要外部募款組織,1,正面,https://technews.tw/2024/10/23/bill-gates-privately-says-he-has-backed-harris-with-50-million-donation/,TECHNEWS,2024/10/23
+7,科技,金融時報：俄烏洽談重啟停攻能源設施談判,根據英國《金融時報》引述不具名知情人士報導，烏克蘭和俄羅斯正在討論是否停止空襲彼此能源設施，相關談判處於初步階段,-2,負面,https://technews.tw/2024/10/31/ukraine-russia-in-talks-on-halting-strikes-on-energy-facilities/,TECHNEWS,2024/10/31
+7,科技,微軟：中國社群媒體機器人大軍干預美選，誹謗反中候選人,美國科技巨頭微軟今天發布最新研究指出，中國控制的社群媒體機器人大軍，試圖影響阿拉巴馬州、德州、田納西州選民，並且誹謗佛州參議員盧比歐（Marco Rubio）等反中政治人物,-1,負面,https://technews.tw/2024/10/24/chinese-influence-operation-targets-us-down-ballot-races/,TECHNEWS,2024/10/24
+8,科技,諾貝爾醫學獎 美籍學者安布羅斯及魯夫昆共享殊榮,今年首個諾貝爾獎項醫學獎7日在斯德哥爾摩公布，接著將於8日頒發物理獎，9日揭曉化學獎，10日公布文學獎,0,中性,https://www.cna.com.tw/news/ait/202410070268.aspx,CNA,2024/10/7
+8,科技,諾貝爾化學獎 美英3學者以蛋白質設計與結構預測獲殊榮,今年首個諾貝爾獎項醫學獎7日在斯德哥爾摩公布，之後於8日頒發物理獎，9日揭曉化學獎，10日將公布文學獎,0,中性,https://www.cna.com.tw/news/ait/202410090346.aspx,CNA,2024/10/9
+8,科技,時尚結合科技，Axiom Space、Prada 新太空服最終版本亮相,太空公司 Axiom Space 與義大利奢侈品牌 Axiom 日前公布新款太空服「Axiom 艙外移動裝置（AxEMU）」最終外觀設計，該太空服將用於 NASA 阿提米絲 3 號登月任務,-1,負面,https://technews.tw/2024/10/21/space-suit-axiom-prada-axemu-artemis-3/,TECHNEWS,2024/10/21
+8,科技,SpaceX將執行歐洲探測器任務 研究撞擊小行星影響,聯邦航空總署今天表示：「SpaceX獵鷹9號火箭獲准恢復飛行任務，僅限於預定10月7日從佛州卡納維爾角太空軍基地發射的希拉探測器任務,0,中性,https://www.cna.com.tw/news/ait/202410070145.aspx,CNA,2024/10/7
+8,科技,SpaceX 將執行歐洲探測器任務，研究撞擊小行星影響,聯邦航空總署今天表示：「SpaceX獵鷹9號火箭獲准恢復飛行任務，僅限於預定10月7日從佛州卡納維爾角太空軍基地發射的希拉探測器任務,0,中性,https://technews.tw/2024/10/07/spacex-will-launch-the-hera-probe-to-study-the-impact-of-dart/,TECHNEWS,2024/10/7
+9,科技,男女疼痛感受大不同，冥想可能緩解慢性疼痛,研究團隊針對慢性下背痛患者進行了一項冥想治療研究，結果顯示，男性在冥想時主要透過釋放內源性鴉片類物質（人體天然的止痛藥）來緩解疼痛,0,中性,https://technews.tw/2024/10/21/meditation-may-improve-chronic-pain-treatment/,TECHNEWS,2024/10/21
+9,科技,加熱後反而加速冷卻，發現量子系統也存在反直覺彭巴效應,除了都柏林聖三一學院團隊，之前也有其他科學家投入研究量子彭巴效應，包括以色列魏茲曼科學研究所 Shahaf Aharony Shapira 團隊，他們發現當離子自旋在較低溫度下開始，會更快與環境達到熱平衡，類似反量子彭巴效應；奧地利科學院 Lata Joshi 團隊透過實驗研究一個封閉量子系統，發現當離子最初遠離對稱態，它們的自旋會更快恢復對稱性，類似一種量子彭巴效應,0,中性,https://technews.tw/2024/10/15/mpemba-effect-quantum-system/,TECHNEWS,2024/10/15
+9,科技,天文學家發現距離太陽系最近單恆星的系外行星,"天文學家用歐洲南方天文台（ESO）甚大望遠鏡（
+），發現一顆圍繞巴納德星（Barnard′s Star）運行的系外行星「巴納德 b」（Barnard b，註），質量比地球小，至少金星一半質量，公轉一圈長度略超過三個地球日，這是目前發現距離地球最近的單一恆星系外行星",-1,負面,https://technews.tw/2024/10/10/scientists-discover-planet-orbiting-closest-single-star-to-our-sun/,TECHNEWS,2024/10/10
+9,科技,中年是關鍵，哈佛研究：40 歲吃得好，70 歲健康老化,"最嚴格遵循健康飲食模式的參與者的健康老化機率，比不堅持健康飲食模式的參與者高出
+至",3,正面,https://technews.tw/2024/10/04/eat-healthier-live-healthier-at-70s/,TECHNEWS,2024/10/4
+9,科技,模仿免疫系統，類肽分子成抗病毒新希望,傳統的抗病毒藥物主要針對病毒表面的蛋白質，但病毒能快速突變產生抗藥性，使治療效果大打折扣,1,正面,https://technews.tw/2024/10/02/breaking-viral-defenses-with-next-gen-peptoids/,TECHNEWS,2024/10/2
+10,科技,Nissan 將回收 Leaf 車載電池，打造辦公室儲能系統,Nissan 將加入 BMW、 Ford 和 Honda 共同成立的能源管理公司 ChargeScape，打造電動車與電網整合方案，他們的新計畫就是要用回收的車載舊電池，建設總部辦公室的儲能系統,1,正面,https://technews.tw/2024/10/25/nissan-use-battery-from-leaf-as-power-management/,TECHNEWS,2024/10/25
+10,科技,為提赴菲建電廠想法致歉，郭智輝：半年內研議可行性,經濟部長郭智輝拋出至菲律賓等鄰近國家協助廠商建綠電廠，並將綠電運回台灣的想法，郭智輝 16 日立法院經委會多次強調，這僅是初步想法，但藍綠立委都強調，應待規劃成熟再向社會說明,2,正面,https://technews.tw/2024/10/16/economy-minister-apologizes-for-green-power/,TECHNEWS,2024/10/16
+10,科技,台達電助新北 LED 路燈節能換裝，十年估計可省 1.5 億元電費,台達電在新北市北區 13 個行政區共 8 處易淹水的車行地下道，將其路燈增設水情偵測，即時回報道路現況，並將感測資訊回傳市府路燈管理平台，協助交通調度,2,正面,https://technews.tw/2024/10/15/delta-electronics-assists-with-energy-saving-maintenance-of-led-street-lights-in-new-taipei-city/,TECHNEWS,2024/10/15
+10,科技,低碳轉型有成，友達獲頒全台首張「金級」淨零標章,友達全球廠區的碳排減量幅度在 2023 年已達 32%，提前達成減碳目標,1,正面,https://technews.tw/2024/10/29/auo-20241029/,TECHNEWS,2024/10/29
+10,科技,讓海外看病像點餐一樣簡單，Air Doctor 怎麼讓旅客在異鄉快速就診？,公司與保險公司和旅行社合作，將平台服務嵌入旅遊保險方案，使旅客使用平台時無需支付醫療費用或自行處理報銷，系統會根據保險範圍自動匹配合適的醫療服務，並協調保險公司支付醫生費用,3,正面,https://technews.tw/2024/10/20/air-doctor/,TECHNEWS,2024/10/20
+11,科技,德州儀器日本會津工廠開始生產氮化鎵，自有產能將提升四倍,TI 的整合式 GaN 功率級產品組合讓客戶可實現更高的功率密度、提升易用性，並降低系統成本,1,正面,https://technews.tw/2024/10/25/texas-instruments-begins-production-of-gallium-nitride-at-aizu-plant-in-japan/,TECHNEWS,2024/10/25
+11,科技,富士通、美超微戰略合作，開發綠色 AI 運算及液冷資料中心解決方案,本次戰略合作也包括富士通子公司 Fsas Technologies Inc.，此公司將結合美超微 GPU 伺服器產品，以及適用於資料中心營運商和企業的部署支援服務，向全球提供以 AI 平台為基礎的生成式 AI 解決方案,3,正面,https://technews.tw/2024/10/12/fujitsu-supermicro-ai-server/,TECHNEWS,2024/10/12
+11,科技,2024 TIE 盛大開幕，AI 新技元驅動智慧科技生活化，產業革新再突破,台灣創新技術博覽會（Taiwan Innotech Expo，TIE）於今（17 日）在台北世貿一館盛大開幕，這場全台規模最大的科技盛會今年以「智慧科技島，AI 新技元」為策展主軸，技術主題緊扣六大核心戰略與五大信賴產業，展出超過千項技術與科研成果，為了讓民眾進一步深度認識各產學研技術能量，現場不但在三大主題館「創新領航館」、「未來科技館」、「永續發展館」均有安排互動技術供民眾親身體驗，更設計「TIE 科技奇點大冒險」活動，民眾只要完成互動技術展品體驗，就能至大會服務台兌換專屬好禮,3,正面,https://technews.tw/2024/10/17/2024-tie-taiwan-innotech-expo-2/,TECHNEWS,2024/10/17
+11,科技,2024 台灣創新技術博覽會 10 月 17 日登場，聚焦 AI 與半導體等五大信賴產業，展示智慧科技島研發實力,透過國際間的技術深度交流，幫助台灣企業掌握最新的科技應用與發展趨勢，進一步推動產業升級轉型與國際合作，致力將台灣打造為全球研發樞紐平台,4,正面,https://technews.tw/2024/10/15/2024-tie-taiwan-innotech-expo-1/,TECHNEWS,2024/10/15
+11,科技,imec 攜手日月光等加入車用小晶片計畫，推動汽車產業小晶片發展,imec 在設計、建構和優化晶片架構和技術方面擁有 40 年的經驗，而且從未偏袒汽車生態系的任何要角，imec 的獨特地位能引領汽車製造產業開發出滿足汽車產業特定需求的創新新型小晶片技術,5,正面,https://technews.tw/2024/10/17/imec-joins-hands-with-ase-and-others-to-join-automotive-small-chip-project/,TECHNEWS,2024/10/17
+12,科技,微軟終於要推出第一支摺疊機了嗎？,微軟日前獲得的專利名為「帶背板插槽的可摺疊顯示設備」，專利編號為,1,正面,https://technews.tw/2024/10/05/microsoft-foldable-phone/,TECHNEWS,2024/10/5
+12,科技,Android 迎巨大變革！法官裁決要求開放 Google Play 競爭，Google 不滿將上訴,美國法官在 Epic Games 控告 Google 一案做出最新裁決，認為 Google 為 Android 平台建構的應用程式商店屬於非法壟斷，要求 Google 必須做出改變,-4,負面,https://technews.tw/2024/10/08/us-judge-orders-google-to-open-up-google-play-to-competition/,TECHNEWS,2024/10/8
+12,科技,YouTube 疑隱藏「跳過廣告」按鈕，澄清只是「更新廣告顯示方式」,YouTube 近來加強打擊廣告封鎖工具，最近有網友發現，YouTube「跳過廣告」按鈕竟被黑色長方形遮蓋，倒數計時器也消失不見,-4,負面,https://technews.tw/2024/10/12/youtube-the-skip-button/,TECHNEWS,2024/10/12
+12,科技,Android 手機遭竊 AI 自動鎖定螢幕，Google 防盜功能有望逐步釋出,Theft Detection Lock 運用機器學習模型偵測，一旦有竊賊從你手中搶走 Android 裝置並試圖以步行、騎車或開車方式逃離，裝置偵測到將會自動鎖定螢幕，阻止竊賊存取裝置裡的資料,-1,負面,https://technews.tw/2024/10/07/android-uses-ai-to-lock-the-device-if-the-phone-detects-motion-that-could-indicate-theft/,TECHNEWS,2024/10/7

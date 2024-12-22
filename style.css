@@ -11,6 +11,7 @@
 }
 
 body {
+    font-family: "Microsoft JhengHei", "微軟正黑體", "PingFang TC", "蘋方-繁", sans-serif;
     background: linear-gradient(135deg, #3498db, #8e44ad);
     font-family: Arial, sans-serif;
     min-height: 100dvh;
@@ -23,7 +24,7 @@ body {
 .flip-container {
     perspective: 1000px;
     width: 800px;
-    height: 500px;
+    height: 600px;
 }
 
 .hidden {
@@ -93,29 +94,36 @@ a:hover {
     list-style: none;
 }
 
-.summary li {
+ li {
     margin-bottom: 1rem;
     padding-left: 1.5rem;
     position: relative;
     line-height: 1.4;
 }
 
-.summary li::before {
+ li::before {
     content: "•";
     position: absolute;
     left: 0;
     color: #666;
 }
 
-.summary li span {
+ li span {
     display: block;
-    color: #666;
-    font-size: 0.9rem;
+    color: #5e5c5c;
+    font-size: 1rem;
     margin-bottom: 0.2rem;
-    font-style: italic;
 }
 
-
+#title{
+    text-align: center;
+    margin-bottom: 2rem;
+    font-family: "Microsoft JhengHei", "微軟正黑體", "PingFang TC", "蘋方-繁", sans-serif;
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: #2c3e50;
+    margin: 0;
+}
   /* Optional style for text shadow */
   text {
     transition: text-shadow 0.1s ;
@@ -127,6 +135,7 @@ a:hover {
   
   li.neutral a{
     color: rgb(158, 158, 158);
+
 }
   li.positive a{
     color: rgb(67, 160, 71);
@@ -170,3 +179,103 @@ a:hover {
     transform: translateX(-1px);
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
+
+
+
+.tooltip {
+    position: absolute;
+    background-color: #f9f9f9;
+    border: 1px solid #d3d3d3;
+    padding: 8px;
+    border-radius: 4px;
+    pointer-events: none;
+    font-size: 14px;
+    color: #333;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    z-index: 99;
+  }
+
+
+
+  .charts {
+    display: flex;
+    /* flex-direction: column; */
+    gap: 24px;
+    margin-bottom: 2rem;
+
+  }
+
+  .chart-card {
+    background: #f8f9fa;
+    border-radius: 12px;
+    padding: 16px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .chart-title {
+    text-align: center;
+    color: #666;
+    margin-top: 8px;
+    font-size: 0.875rem;
+  }
+
+
+
+
+  .news-section {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+  }
+
+  .news-card {
+    background: #f8f9fa;
+    border-radius: 12px;
+    padding: 16px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  }
+
+  .news-title {
+    font-size: 1.25rem;
+    color: #333;
+    padding-bottom: 12px;
+    border-bottom: 2px solid #eee;
+    margin-bottom: 16px;
+  }
+
+  .news-list {
+    list-style: none;
+  }
+
+  .news-item {
+    margin-bottom: 16px;
+    transition: opacity 0.2s;
+  }
+
+  .news-item:hover {
+    opacity: 0.8;
+  }
+
+  .news-meta {
+    display: block;
+    font-size: 0.875rem;
+    color: #666;
+    margin-bottom: 4px;
+  }
+
+  .news-content {
+    line-height: 1.5;
+  }
+
+
+  .card {
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 16px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+    padding: 24px;
+  }
